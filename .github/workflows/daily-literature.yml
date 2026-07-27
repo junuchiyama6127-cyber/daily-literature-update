@@ -1,1 +1,11 @@
+name: Daily literature update
 
+"on":
+  workflow_dispatch:
+  schedule:
+    - cron: "15 23 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
