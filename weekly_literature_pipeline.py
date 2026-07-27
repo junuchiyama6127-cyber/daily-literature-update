@@ -1488,7 +1488,7 @@ def render_period_page(
             f'スクリーニング待ち {h(status_metrics.get("pending_screening", 0))} · '
             f'要約待ち {h(status_metrics.get("pending_summary", 0))} · '
             f'分類待ち {h(status_metrics.get("pending_category", 0))} · '
-            f'失敗 {h(status_metrics.get("failed_screening", 0) + status_metrics.get("failed_summary", 0) + status_metrics.get("failed_category", 0))}</div>'
+            f'失敗 {h(sum(int(status_metrics.get(key) or 0) for key in ("failed_screening", "failed_summary", "failed_category")))}</div>'
         )
     return f"""<!doctype html>
 <html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
