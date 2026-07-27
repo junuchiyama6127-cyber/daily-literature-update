@@ -9,6 +9,7 @@
     "Nature Microbiology",
     "Nature Neuroscience",
     "Cell Host & Microbe",
+    "Nature Protocols",
     "Gut Microbes",
     "Microbiome",
     "Redox Biology",
@@ -39,7 +40,7 @@
     "neuroinflammation",
     "neural immune interaction"
   ],
-  "search_keywords_outside_journals": false,
+  "search_keywords_outside_journals": true,
   "topic_scope": "Include a paper only when its central question or principal finding is directly related to at least one of these five areas: (1) gut microbiome, gut bacteria, microbial metabolism, or intestinal host-microbe interaction; (2) enteric nervous system, enteric neurons or glia, intestinal neural circuits, motility, or visceral sensation; (3) supersulfides, persulfides, polysulfides, reactive sulfur species, or protein persulfidation/supersulfidation; (4) protein post-translational modifications, especially mechanistic studies of covalent protein modification; (5) neuroimmunology, neuroinflammation, or bidirectional nervous-immune interactions. Exclude papers whose connection is incidental.",
   "fetch_lookback_days": 7,
   "latest_window_days": 1,
@@ -60,6 +61,6 @@
   "weekly_entries_on_home": 12,
   "slack_enabled": true,
   "slack_post_empty": false,
-  "slack_max_papers_per_run": 15,
-  "slack_papers_per_message": 5
+  "slack_max_papers_per_run": 20,
+  "slack_papers_per_message": 10
 }
