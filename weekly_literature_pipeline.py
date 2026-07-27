@@ -1399,19 +1399,19 @@ def processing_status_for_date(
         "pending_screening": sum(p.get("screening_status") == "pending" for p in papers),
         "failed_screening": sum(p.get("screening_status") == "failed" for p in papers),
         "pending_summary": sum(
-            p.get("include") and p.get("summary_status") == "pending" for p in papers
+            p.get("include") is True and p.get("summary_status") == "pending" for p in papers
         ),
         "failed_summary": sum(
-            p.get("include") and p.get("summary_status") == "failed" for p in papers
+            p.get("include") is True and p.get("summary_status") == "failed" for p in papers
         ),
         "pending_category": sum(
-            p.get("include")
+            p.get("include") is True
             and p.get("summary_status") == "completed"
             and p.get("category_status") == "pending"
             for p in papers
         ),
         "failed_category": sum(
-            p.get("include")
+            p.get("include") is True
             and p.get("summary_status") == "completed"
             and p.get("category_status") == "failed"
             for p in papers
@@ -1785,24 +1785,24 @@ class DailyLiteraturePipeline:
                 p.get("screening_status") == "failed" for p in database.values()
             ),
             "pending_summary": sum(
-                p.get("include") and p.get("summary_status") == "pending"
+                p.get("include") is True and p.get("summary_status") == "pending"
                 for p in database.values()
             ),
             "failed_summary": sum(
-                p.get("include") and p.get("summary_status") == "failed"
+                p.get("include") is True and p.get("summary_status") == "failed"
                 for p in database.values()
             ),
             "completed_summaries": sum(
                 p.get("summary_status") == "completed" for p in database.values()
             ),
             "pending_category": sum(
-                p.get("include")
+                p.get("include") is True
                 and p.get("summary_status") == "completed"
                 and p.get("category_status") == "pending"
                 for p in database.values()
             ),
             "failed_category": sum(
-                p.get("include")
+                p.get("include") is True
                 and p.get("summary_status") == "completed"
                 and p.get("category_status") == "failed"
                 for p in database.values()
