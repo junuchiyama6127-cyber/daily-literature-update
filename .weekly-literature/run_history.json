@@ -106,5 +106,59 @@
     "prompt_version": "2026-07-27-gemini-v7-five-categories",
     "daily_pages": 0,
     "weekly_pages": 0
+  },
+  {
+    "run_date": "2026-07-29",
+    "generated_at": "2026-07-29T17:16:33+09:00",
+    "fetch_start": "2026-07-23",
+    "fetch_end": "2026-07-29",
+    "retrieved": 146,
+    "legacy_migrated": 0,
+    "upsert": {
+      "new": 0,
+      "changed": 0,
+      "unchanged": 146
+    },
+    "rules": {
+      "rule_included": 0,
+      "rule_excluded": 0
+    },
+    "screening": {
+      "attempted": 40,
+      "completed": 0,
+      "failed": 40
+    },
+    "summaries": {
+      "attempted": 0,
+      "completed": 0,
+      "failed": 0
+    },
+    "category_preparation": {
+      "queued": 0,
+      "provisional": 0
+    },
+    "reclassification": {
+      "attempted": 0,
+      "completed": 0,
+      "failed": 0
+    },
+    "category_scheme_version": "2026-07-27-five-research-categories-v1",
+    "queue": {
+      "pending_screening": 185,
+      "failed_screening": 40,
+      "pending_summary": 0,
+      "failed_summary": 0,
+      "completed_summaries": 0,
+      "pending_category": 0,
+      "failed_category": 0
+    },
+    "queries": {
+      "journals": "FIRST_PDATE:[2026-07-23 TO 2026-07-29] AND (JOURNAL:\"Nature\" OR JOURNAL:\"Science\" OR JOURNAL:\"Cell\" OR JOURNAL:\"Nature Medicine\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Neuroscience\" OR JOURNAL:\"Cell Host & Microbe\" OR JOURNAL:\"Nature Protocols\" OR JOURNAL:\"Gut Microbes\" OR JOURNAL:\"Microbiome\" OR JOURNAL:\"Redox Biology\" OR JOURNAL:\"Free Radical Biology and Medicine\") AND NOT SRC:PPR",
+      "keywords": "FIRST_PDATE:[2026-07-23 TO 2026-07-29] AND (TITLE_ABS:\"gut microbiome\" OR TITLE_ABS:\"intestinal microbiota\" OR TITLE_ABS:\"gut bacteria\" OR TITLE_ABS:\"host-microbe interaction\" OR TITLE_ABS:\"microbiome-derived metabolite\" OR TITLE_ABS:\"enteric nervous system\" OR TITLE_ABS:\"enteric neuron\" OR TITLE_ABS:\"enteric glia\" OR TITLE_ABS:\"intestinal motility\" OR TITLE_ABS:\"gut-brain neural\" OR TITLE_ABS:\"supersulfide\" OR TITLE_ABS:\"persulfidation\" OR TITLE_ABS:\"protein persulfidation\" OR TITLE_ABS:\"reactive sulfur species\" OR TITLE_ABS:\"polysulfide\" OR TITLE_ABS:\"sulfane sulfur\" OR TITLE_ABS:\"post-translational modification\" OR TITLE_ABS:\"protein modification\" OR TITLE_ABS:\"redox modification\" OR TITLE_ABS:\"neuroimmune\" OR TITLE_ABS:\"neuroinflammation\" OR TITLE_ABS:\"neural immune interaction\") AND NOT SRC:PPR"
+    },
+    "model": "gemini-3.5-flash",
+    "prompt_version": "2026-07-27-gemini-v7-five-categories",
+    "daily_pages": 0,
+    "weekly_pages": 0
   }
 ]
