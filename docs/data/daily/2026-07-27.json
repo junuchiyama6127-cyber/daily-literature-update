@@ -125,8 +125,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 2,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 3,
+    "slack_last_attempt": "2026-08-05T17:12:51+09:00"
   },
   {
     "uid": "9b3422e159a29825",
@@ -187,7 +187,11 @@
     "why_it_matters_ja": "グリア細胞が制御する脳内炎症がALSの病勢進行に影響を与えることが示され、Fosシグナル伝達経路を標的とした新たな治療戦略の開発につながる可能性がある。",
     "article_type": "Research article",
     "summary_version": "2026-07-27-gemini-v7-five-categories",
-    "summary_completed_at": "2026-08-05T17:11:10+09:00"
+    "summary_completed_at": "2026-08-05T17:11:10+09:00",
+    "slack_status": "failed",
+    "slack_error": "Slack webhook failed: HTTP 404: no_service",
+    "slack_attempts": 1,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
   },
   {
     "uid": "9c99df7e1049e707",
@@ -251,8 +255,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 2,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 3,
+    "slack_last_attempt": "2026-08-05T17:12:51+09:00"
   },
   {
     "uid": "fc3bafbd394b81c9",
@@ -435,7 +439,11 @@
     "why_it_matters_ja": "糖鎖修飾プロファイルの改変が脊髄損傷後の神経炎症を制御する新たな標的となる可能性があり、遺伝子治療の開発につながるかもしれない。",
     "article_type": "Research article",
     "summary_version": "2026-07-27-gemini-v7-five-categories",
-    "summary_completed_at": "2026-08-05T17:11:10+09:00"
+    "summary_completed_at": "2026-08-05T17:11:10+09:00",
+    "slack_status": "failed",
+    "slack_error": "Slack webhook failed: HTTP 404: no_service",
+    "slack_attempts": 1,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
   },
   {
     "uid": "391b9dfad5525894",
@@ -500,8 +508,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 2,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 3,
+    "slack_last_attempt": "2026-08-05T17:12:51+09:00"
   },
   {
     "uid": "052495a0d82ed1b0",
@@ -567,8 +575,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 2,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 3,
+    "slack_last_attempt": "2026-08-05T17:12:51+09:00"
   },
   {
     "uid": "38d6f770748b9d29",
@@ -632,7 +640,135 @@
     "why_it_matters_ja": "FUT2を介した宿主と微生物の相互作用の理解は、IBDの個別化医療や新たな治療アプローチの開発に寄与する可能性があるが、臨床応用にはさらなるヒトでの検証が必要である。",
     "article_type": "Review",
     "summary_version": "2026-07-27-gemini-v7-five-categories",
-    "summary_completed_at": "2026-08-05T17:11:10+09:00"
+    "summary_completed_at": "2026-08-05T17:11:10+09:00",
+    "slack_status": "failed",
+    "slack_error": "Slack webhook failed: HTTP 404: no_service",
+    "slack_attempts": 1,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
+  },
+  {
+    "uid": "b703b8ab3a73288e",
+    "stable_id": "10.1016/j.meegid.2026.105996",
+    "source": "MED",
+    "source_id": "42480893",
+    "pmid": "42480893",
+    "pmcid": "",
+    "doi": "10.1016/j.meegid.2026.105996",
+    "title": "Gut microbiota and the immune system: A regulatory axis through host MicroRNA modulation.",
+    "abstract": "The human gastrointestinal tract harbors trillions of microorganisms that collectively exert profound influences on host physiology, particularly immune function. Emerging evidence reveals that gut microbiota modulates immune responses through intricate interactions with host microRNAs (miRNAs), small non-coding RNAs that post-transcriptionally regulate gene expression. This review synthesizes current understanding of how gut bacteria influence host immunity via miRNA-dependent mechanisms. We examine two primary pathways: first, the capacity of gut microbes to regulate host miRNA expression profiles in immune cells and intestinal epithelium; second, the potential role of bacteria-derived small RNAs, including siRNA-like molecules, in potential cross-kingdom RNA communication (still under debate). Additionally, we explore the bidirectional nature of this interaction, whereby host miRNAs shape microbial composition and function. Comprehensive tables summarize disease-associated miRNA-microbe signatures and mechanistic pathways in immune regulation. The therapeutic implications of manipulating this axis through probiotics, dietary interventions, and miRNA-based therapies are discussed, along with future directions for translating these insights into clinical applications for inflammatory, autoimmune, and infectious diseases.",
+    "authors": "Khosrojerdi M, Azad FJ, Haghbin A, Azimian A.",
+    "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+    "publication_date": "2026-07-21",
+    "publication_date_parsed": "2026-07-21",
+    "pub_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42480893",
+    "doi_url": "https://doi.org/10.1016/j.meegid.2026.105996",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut bacteria"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-27",
+    "last_seen_date": "2026-07-27",
+    "content_hash": "4325bd654daedc2e803bd2befe7bd5cf64e990da",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-08-05T17:10:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-08-06T17:12:33+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The paper reviews the regulatory axis between the gut microbiota and the host immune system, focusing on host microRNA modulation.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "本レビューは、腸内細菌叢が宿主のマイクロRNA（miRNA）との相互作用を介して免疫応答を調節する仕組みについてまとめている。腸内細菌が免疫細胞や腸上皮における宿主miRNAの発現プロファイルを制御する経路や、細菌由来の小分子RNAによる界を越えた相互作用の可能性について検証している。さらに、宿主miRNAが細菌叢の組成を変化させる双方向の相互作用や、炎症性疾患などに対する治療への応用可能性についても議論している。",
+    "summary_en": "This review explores how the gut microbiota modulates host immune responses through interactions with host microRNAs (miRNAs). It examines the regulation of host miRNA expression by gut microbes and the potential role of bacterial small RNAs in cross-kingdom communication. Additionally, it discusses the bidirectional nature of this axis and its therapeutic potential for inflammatory, autoimmune, and infectious diseases.",
+    "key_finding_ja": "腸内細菌叢は宿主のマイクロRNAの修飾を介して免疫系を双方向的に調節しており、これが治療標的となる可能性が示された。",
+    "why_it_matters_ja": "腸内細菌とマイクロRNAの相互作用機序を解明することは、炎症性疾患や自己免疫疾患に対する新たな治療法の開発につながる可能性がある。",
+    "article_type": "Review",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-08-06T17:12:33+09:00"
+  },
+  {
+    "uid": "2e2ab5152a1b51b2",
+    "stable_id": "10.1016/j.jad.2026.122287",
+    "source": "MED",
+    "source_id": "42480723",
+    "pmid": "42480723",
+    "pmcid": "",
+    "doi": "10.1016/j.jad.2026.122287",
+    "title": "Gut microbiome variability and brain structure and function in unipolar and bipolar depression: A review.",
+    "abstract": "Introduction Depression is a multifactorial disorder with significant global health impact. Neuroimaging advances have provided insights into neural mechanisms underlying depression, while gut microbiome alterations have been linked to brain structure and function. This review summarizes evidence on the association between gut microbiome variability and brain structural and functional changes in Major Depressive Disorder (MDD) and Bipolar Depression (BD). Methods A bibliographic search was conducted on PubMed, Scopus and Web of Science for original studies investigating correlations between gut microbiome and brain structure and function. Results Three studies investigated probiotic interventions in MDD, showing significant associations with increased gray matter volume (GMV) in the calcarine sulcus, reduced putamen and hippocampal activation, and altered fronto-limbic functional connectivity, especially within the precuneus and superior parietal lobule. Also, observational studies in MDD showed that specific microbial taxa or alpha diversity were positively correlated with limbic and basal ganglia GMV, whereas other taxa negatively correlated with frontal connectivity or GMV in regions involved in memory, somatosensory integration, and emotional regulation. Finally, although no interventional studies were available for BD, the available observational studies in this disorder exhibited gut-brain imbalance associations with immune activation and prefrontal dysfunction, with gut microbes linked to neuroactive metabolites correlated with altered connectivity in thalamus, striatum, and language and limbic regions. Conclusions From the available literature emerged that gut microbiome variations seem to be associated with brain structural and functional alterations in both MDD and BD, with preliminary evidence also suggesting significant neurobiological effects of probiotics in MDD. Nonetheless, further studies are needed to confirm the role of gut microbiome modulation as part of personalized approaches.",
+    "authors": "Bottaro F, Enrico P, Cabasino C, Caprioli F, Brambilla P, Delvecchio G.",
+    "journal": "Journal of affective disorders",
+    "publication_date": "2026-07-21",
+    "publication_date_parsed": "2026-07-21",
+    "pub_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42480723",
+    "doi_url": "https://doi.org/10.1016/j.jad.2026.122287",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut microbiome"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-27",
+    "last_seen_date": "2026-07-27",
+    "content_hash": "283ad9d28d476e295ba9522ca1b8941183d7124e",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-08-05T17:10:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-08-06T17:12:33+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The paper reviews the relationship between gut microbiome variability and brain structural and functional alterations in unipolar and bipolar depression.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "本レビューは、大うつ病性障害（MDD）および双極性うつ病（BD）における腸内細菌叢の多様性と脳の構造的・機能的変化との関連に関する証拠をまとめている。MDDにおいては、プロバイオティクス介入や観察研究により、特定の脳領域における灰白質量や機能的結合の変化との有意な関連が示されている。BDにおいては、介入研究はないものの、腸脳軸の不均衡が免疫活性化や前頭前皮質機能障害と関連していることが観察研究から示唆されている。",
+    "summary_en": "This review summarizes the evidence linking gut microbiome variability to structural and functional brain changes in major depressive disorder (MDD) and bipolar depression (BD). In MDD, probiotic interventions and observational studies show significant associations with altered gray matter volume and functional connectivity in specific brain regions. For BD, observational studies suggest associations between gut-brain imbalance, immune activation, and prefrontal dysfunction.",
+    "key_finding_ja": "大うつ病性障害および双極性うつ病において、腸内細菌叢の変動が脳の構造的および機能的な変化と関連していることが示された。",
+    "why_it_matters_ja": "腸内細菌叢の調整が、うつ病性障害における個別化医療のアプローチの一部として役立つ可能性が期待される。",
+    "article_type": "Review",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-08-06T17:12:33+09:00"
   },
   {
     "uid": "e2308d6041a0c41a",
@@ -914,7 +1050,7 @@
     ],
     "journal_hits": [],
     "first_seen_date": "2026-07-27",
-    "last_seen_date": "2026-08-05",
+    "last_seen_date": "2026-08-06",
     "content_hash": "dcc474ab05a85dbd9ee5c7385cb96a133d861879",
     "late_indexed": false,
     "screening_status": "completed",
@@ -947,8 +1083,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 2,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 3,
+    "slack_last_attempt": "2026-08-05T17:12:51+09:00"
   },
   {
     "uid": "1f4bf9b018f966ec",
@@ -1013,8 +1149,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 2,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 3,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
   },
   {
     "uid": "854286b777dc0f67",
@@ -1081,8 +1217,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 2,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 3,
+    "slack_last_attempt": "2026-08-05T17:12:51+09:00"
   },
   {
     "uid": "a99c77dc80af0b68",
@@ -1147,8 +1283,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 2,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 3,
+    "slack_last_attempt": "2026-08-05T17:12:51+09:00"
   },
   {
     "uid": "809db6c31568b534",
@@ -1213,8 +1349,131 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 2,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 3,
+    "slack_last_attempt": "2026-08-05T17:12:51+09:00"
+  },
+  {
+    "uid": "900f87cfef394d96",
+    "stable_id": "10.1016/j.jsbmb.2026.107089",
+    "source": "MED",
+    "source_id": "42486342",
+    "pmid": "42486342",
+    "pmcid": "",
+    "doi": "10.1016/j.jsbmb.2026.107089",
+    "title": "Estrogen's Master Switch: NFκB-NLRP3, SIRT1-HMGB1, and TLR4 Triad Tamed for Brain Rescue in Ageing and Neurodegeneration.",
+    "abstract": "Estrogen operates as a pleiotropic steroidal, neuroendocrine modulator to combat accelerated brain ageing and neurodegeneration by addressing a convergent inflammatory-metabolic trio. Estrogen receptor-dependent neural cellular signalling reduces TLR4-mediated immune priming and NF-κB activation, preventing NLRP3 inflammasome assembly and pro-inflammatory cytokine release. Concurrently, estrogen increases SIRT1 activity, restoring metabolic and epigenetic equilibrium while inhibiting HMGB1 acetylation, translocation, extracellular release, and activation of the stress-response pathway. Coordinated regulation of the TLR4-NFκB-NLRP3 and SIRT1-HMGB1 molecular triad reduces chronic neuroinflammation, preserves neuronal integrity, metabolic resilience, and slows persistent inflammation-driven brain ageing. This highlights estrogen and estrogen-based steroidal modulators as promising therapeutic candidates for reversing accelerated cognitive ageing and neurodegenerative disorders. However, a crucial research gap persists in the absence of a systems-level assessment of neurosteroids as a multi-target regulator of convergent innate immunological and metabolic signalling networks. The control of the TLR4-NFκB-NLRP3 inflammasome axis and the SIRT1-HMGB1 metabolic-epigenetic checkpoint has not been well studied as an interrelated, steroidal druggable trifecta driving brain homeostasis and neurodegeneration. These pathways are often studied in isolation, despite overwhelming evidence that their bidirectional interplay contributes to persistent neuroinflammation, immunometabolic dysfunction, and cellular senescence. This review synthesises evidence from molecular endocrinology, biochemical, pre-clinical, and clinical models to advance a mechanistically integrated and therapeutically actionable framework that aligns into a unified endocrine, metabolic, and immune target-driven framework relevant to complex, inflammation-driven brain ageing, thereby offering a strong foundation and paving the way for future molecular target validation and disease-modifying, steroid-mimetic interventions against neurodegeneration.",
+    "authors": "Shandilya A, Giri CK, Arwind DA, Ravichandiran V, Singh S, Parihar VK.",
+    "journal": "The Journal of steroid biochemistry and molecular biology",
+    "publication_date": "2026-07-22",
+    "publication_date_parsed": "2026-07-22",
+    "pub_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42486342",
+    "doi_url": "https://doi.org/10.1016/j.jsbmb.2026.107089",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "neuroinflammation"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-27",
+    "last_seen_date": "2026-07-28",
+    "content_hash": "aecb6db1fc3af1cc9ec6fcdb21275c7065d4329c",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-08-05T17:10:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-08-06T17:12:33+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 90,
+    "screening_reason": "The paper is a comprehensive review focusing on the molecular mechanisms of estrogen in reducing chronic neuroinflammation and preserving brain homeostasis.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "neuroimmunology",
+    "category_ja": "神経免疫",
+    "category_en": "Neuroimmunology",
+    "summary_ja": "本レビューは、エストロゲンが脳の老化や神経変性疾患に対抗する神経内分泌調節因子として機能する機序に関する証拠をまとめている。エストロゲンはTLR4-NFκB-NLRP3経路とSIRT1-HMGB1経路の協調的な制御を介して、慢性的な神経炎症を抑制し神経細胞の完全性を維持する。著者らは、これらの相互に関連する免疫・代謝ネットワークを標的とした、神経変性に対する新たな治療的枠組みを提案している。",
+    "summary_en": "This review synthesizes evidence on how estrogen acts as a neuroendocrine modulator to combat brain aging and neurodegeneration. Estrogen coordinates the regulation of the TLR4-NFκB-NLRP3 and SIRT1-HMGB1 pathways, thereby reducing chronic neuroinflammation and preserving neuronal integrity. The authors propose an integrated framework to target these interconnected immunological and metabolic networks for therapeutic interventions.",
+    "key_finding_ja": "エストロゲンがTLR4-NFκB-NLRP3およびSIRT1-HMGB1の分子経路を協調的に制御することで、神経炎症を抑制し脳の恒常性を維持する仕組みが明らかになった。",
+    "why_it_matters_ja": "エストロゲン様作用を持つ調節因子の活用が、加齢に伴う認知機能低下や神経変性疾患の進行を遅らせる新たな治療戦略となる可能性がある。",
+    "article_type": "Review",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-08-06T17:12:33+09:00"
+  },
+  {
+    "uid": "c925303a966653d6",
+    "stable_id": "10.1080/19420862.2026.2703349",
+    "source": "MED",
+    "source_id": "42482306",
+    "pmid": "42482306",
+    "pmcid": "",
+    "doi": "10.1080/19420862.2026.2703349",
+    "title": "Glycosylation penetrance of N-X-S/T sequons in antibody variable domains: a structural survey of 19,265 human antibody structures reassessing the histidine/glutamine suppression hypothesis.",
+    "abstract": "Machine learning (ML) approaches for de novo antibody design generate thousands of candidate sequences, but most lack a robust assessment of post-translational modification liabilities. N-linked glycosylation in variable domains can fundamentally alter antibody function, yet current penetrance estimates are derived from glycosylation-enriched datasets inflating risk estimates. We surveyed 19,265 human antibody structures from the Protein Data Bank (PDB), identifying 1,368 N-X-S/T sequons in variable domains (this study) with 7.82% observed penetrance (107/1,368; Wilson 95% CI 6.5-9.4%) - a crystallographic lower bound reflecting selection against glycosylated structures in the PDB - compared with 16.47% from a previously published glycosylation-enriched corpus. At the X-position, no glycosylation was observed at histidine (0/61; Wilson 95% upper bound 5.9%), lysine (0/26; upper bound 12.9%), or tryptophan (0/26), consistent with suppression. Glutamine showed 6.45% penetrance (2/31), indistinguishable from baseline and refuting its prior classification as a suppressor. Variable light domains showed higher aggregate penetrance than variable heavy (9.62% vs 6.79%; Fisher OR = 1.46, p = 0.075), though this contrast did not survive joint Bayesian adjustment. Regionally, FR2 was glycosylation-resistant (0/119) while FR1 (14.0%) and FR4 (12.1%) showed elevated rates. N-X-T sequons were 3.84-fold more susceptible than N-X-S in aggregate (13.64% vs 3.55%; Fisher exact p = 8.13 × 10 -12 , OR = 4.29). An independent PDB-overlap-free validation subset ( n = 449, 33 glycosylation events, 189 nonoverlapping PDBs) reproduced the central findings. Leakage-corrected Bayesian logistic regression confirmed the N-X-T preference as the most prior-stable effect and identified strong negative coefficients for proline and aromatic residues at the +3 position immediately C-terminal to the sequon; the histidine effect at the X-position was borderline under prior sensitivity. We present a confidence-interval-aware decision tree that integrates X-position, third-position, chain type, and regional context as a sequence-only triage instrument for ML-designed antibody candidates.",
+    "authors": "Gaughan CL.",
+    "journal": "mAbs",
+    "publication_date": "2026-07-21",
+    "publication_date_parsed": "2026-07-21",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42482306",
+    "doi_url": "https://doi.org/10.1080/19420862.2026.2703349",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "post-translational modification"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-27",
+    "last_seen_date": "2026-07-27",
+    "content_hash": "894c8917c56571c4d0f3d0ed111184e65d83b9a8",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-08-05T17:10:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-08-06T17:12:33+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 90,
+    "screening_reason": "The paper presents a structural survey and analysis of N-linked glycosylation, a major protein post-translational modification, in antibody variable domains.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "post_translational_modification",
+    "category_ja": "翻訳後修飾",
+    "category_en": "Post-translational modification",
+    "summary_ja": "本研究は、19,265個のヒト抗体構造を調査し、可変領域におけるN-X-S/T配列のN型糖鎖修飾の透過率を評価した。全体の透過率は7.82%であり、N-X-T配列はN-X-S配列よりも糖鎖修飾を受けやすいことが示された。また、X位置におけるヒスチジン、リシン、トリプトファンによる修飾抑制が確認された一方で、グルタミンが抑制因子であるという従来の説は否定された。",
+    "summary_en": "This study analyzed 19,265 human antibody structures to evaluate the N-linked glycosylation penetrance of N-X-S/T sequons in variable domains. The overall observed penetrance was 7.82%, with N-X-T sequons being significantly more susceptible to glycosylation than N-X-S sequons. The findings confirmed glycosylation suppression by histidine, lysine, and tryptophan at the X-position, but refuted the prior classification of glutamine as a suppressor.",
+    "key_finding_ja": "ヒト抗体可変領域におけるN型糖鎖修飾の実際の透過率は7.82%であり、X位置の特定のアミノ酸による抑制効果やN-X-T配列の高い感受性が明らかになった。",
+    "why_it_matters_ja": "機械学習を用いて設計された抗体医薬品候補の糖鎖修飾リスクを正確に評価し、効率的なスクリーニングを行うための有用なツールとなることが期待される。",
+    "article_type": "Research article",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-08-06T17:12:33+09:00"
   },
   {
     "uid": "b79316ddcb316368",
@@ -1278,8 +1537,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 2,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 3,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
   },
   {
     "uid": "cfd12c5139555ec8",
@@ -1311,7 +1570,7 @@
     ],
     "journal_hits": [],
     "first_seen_date": "2026-07-27",
-    "last_seen_date": "2026-08-05",
+    "last_seen_date": "2026-08-06",
     "content_hash": "eef934bf0124f5bdf2b13f81afdb4742012e1aca",
     "late_indexed": false,
     "screening_status": "completed",
@@ -1344,8 +1603,8 @@
     "summary_completed_at": "2026-08-04T17:18:23+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 1,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 2,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
   },
   {
     "uid": "a56906ca76e5675f",
@@ -1410,8 +1669,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 1,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 2,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
   },
   {
     "uid": "05005d85dd5e1f48",
@@ -1475,8 +1734,69 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 1,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 2,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
+  },
+  {
+    "uid": "e250b873bd383c90",
+    "stable_id": "10.1177/15578100261472595",
+    "source": "MED",
+    "source_id": "42489235",
+    "pmid": "42489235",
+    "pmcid": "",
+    "doi": "10.1177/15578100261472595",
+    "title": "Entropy-Guided Sample-Specific Feature Selection for Robust Incomplete Multi-Omics Learning in Gut Microbiome Disease Prediction and Biomarker Discovery.",
+    "abstract": "The rapid advancement of multi-omics integration facilitates deep insights into complex diseases. However, incomplete modalities, heterogeneity, and high dimensionality hinder robust analysis. To address these limitations, we propose entropy-guided sample-specific feature selection for robust incomplete multi-omics learning (ESSFS-IMO), a novel framework for accurate disease prediction and interpretable biomarker discovery under missing-data conditions. It combines instance-wise feature selection, entropy-adaptive optimization, and variational representation learning. Specifically, a Gumbel-Softmax-based selector performs per-sample differentiable feature selection, guided by an entropy-based annealing strategy that dynamically adjusts selection sharpness. Selected features are integrated via an information-bottlenecked variational backbone with variance-weighted fusion, enabling robust classification despite missing modalities. Experiments on inflammatory bowel disease datasets demonstrate that ESSFS-IMO outperforms state-of-the-art baselines in accuracy, F1-score, and area under the receiver operating characteristic curve. The model maintains high performance across missing patterns and yields biologically coherent biomarkers, effectively linking microbial, transcriptional, and metabolic profiles to immune regulation. In conclusion, ESSFS-IMO provides a robust, interpretable solution for incomplete multi-omics learning. By integrating entropy-guided selection and variational information bottlenecks, it achieves superior predictive power and resilience while identifying meaningful signatures associated with intestinal inflammation, holding promise for broader biomedical applications.",
+    "authors": "Li M, Cheng K, Lou M, Wang P, Xu W.",
+    "journal": "Omics : a journal of integrative biology",
+    "publication_date": "2026-07-23",
+    "publication_date_parsed": "2026-07-23",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42489235",
+    "doi_url": "https://doi.org/10.1177/15578100261472595",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut microbiome"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-27",
+    "last_seen_date": "2026-07-29",
+    "content_hash": "9d75d4a9ea0c17e07fe661ebcf1c6757d557ebb5",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-08-05T17:10:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-08-06T17:12:33+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 85,
+    "screening_reason": "The paper proposes a novel machine learning framework specifically designed for disease prediction and biomarker discovery using gut microbiome multi-omics data.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "著者らは、不完全なマルチオミクスデータを用いて頑健な疾患予測とバイオマーカー探索を行うための新しい機械学習フレームワーク「ESSFS-IMO」を開発した。このフレームワークは、エントロピー制御によるサンプル固有の特徴量選択と変分表現学習を組み合わせることで、データの欠損に対応している。炎症性腸疾患のデータセットに適用したところ、高い予測精度を示し、微生物や代謝プロファイルに関連する生物学的に一貫したバイオマーカーを特定することに成功した。",
+    "summary_en": "The authors developed ESSFS-IMO, a novel machine learning framework designed for robust disease prediction and biomarker discovery using incomplete multi-omics data. The framework integrates entropy-guided sample-specific feature selection with variational representation learning to handle missing modalities. When applied to inflammatory bowel disease datasets, it demonstrated superior predictive accuracy and successfully identified biologically coherent biomarkers linking microbial and metabolic profiles.",
+    "key_finding_ja": "欠損のあるマルチオミクスデータから高精度に疾患予測とバイオマーカー特定を行う新手法「ESSFS-IMO」が開発され、炎症性腸疾患データにおいてその有効性が実証された。",
+    "why_it_matters_ja": "臨床データに多く見られるデータの欠損や高次元性といった課題を克服し、腸内細菌叢を含むマルチオミクス解析を通じた個別化医療の進展に寄与する可能性がある。",
+    "article_type": "Methods",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-08-06T17:12:33+09:00"
   },
   {
     "uid": "135b87f44000644b",
@@ -1540,8 +1860,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 1,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 2,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
   },
   {
     "uid": "4f8333e6107de511",
@@ -1607,8 +1927,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 1,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 2,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
   },
   {
     "uid": "5177d2e8437ac850",
@@ -1672,8 +1992,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 1,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 2,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
   },
   {
     "uid": "ecc52665c4753588",
@@ -1739,7 +2059,7 @@
     "summary_completed_at": "2026-08-04T17:18:23+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 1,
-    "slack_last_attempt": "2026-08-04T17:19:59+09:00"
+    "slack_attempts": 2,
+    "slack_last_attempt": "2026-08-05T17:12:52+09:00"
   }
 ]
