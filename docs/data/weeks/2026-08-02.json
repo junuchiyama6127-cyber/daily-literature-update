@@ -126,6 +126,129 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00"
   },
   {
+    "uid": "e469b4b3837fc9f4",
+    "stable_id": "10.1186/s12866-026-05455-0",
+    "source": "MED",
+    "source_id": "42527911",
+    "pmid": "42527911",
+    "pmcid": "",
+    "doi": "10.1186/s12866-026-05455-0",
+    "title": "Astrovirus infection alters gut microbial communities in a widespread neotropical bat across human-modified landscapes.",
+    "abstract": "Astroviruses are becoming a growing concern in public and veterinary health. In humans, astrovirus infections can cause severe diarrhea and may lead to neuropathological encephalitis, whereas in wildlife, these enteropathogenic viral infections often lack overt symptoms and thus remain unnoticed. Yet their close interaction with the host's gastrointestinal microbiome might drive cascading effects with disadvantages for host health. Bats harbor many zoonotic viruses without showing signs of disease, and many species move freely along the gradient from pristine to agricultural landscapes. To better understand the impact of astrovirus (AstV) infection under a One Health framework, we investigated the gut microbiome of naturally AstV-infected Seba's short-tailed bats (Carollia perspicillata, n = 234) inhabiting old-growth lowland forests or forest fragments embedded in an agricultural matrix in Panama. AstV prevalence was higher in forest fragments. We observed that AstV infection is associated with a shift in microbial beta but not alpha diversity, which points towards the replacement of common gut microbial taxa when infected. Indeed, potentially beneficial bacteria, such as Lactococcus, decreased in abundance, whereas potentially pathogenic bacteria from the Helicobacter genus increased in AstV-positive bats. Two Helicobacter haplotypes closely related to avian Helicobacter species were identified. We conclude that even though the impact of infection on the microbiome was not amplified in forest fragments, the higher infection likelihood in landscapes altered by humans implies more frequent or prolonged health repercussions for bats.",
+    "authors": "Brändel SD, Melville DW, Wilhelm K, Corman VM, Page R, Drosten C, Tschapka M, Sommer S, Wasimuddin.",
+    "journal": "BMC microbiology",
+    "publication_date": "2026-07-29",
+    "publication_date_parsed": "2026-07-29",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42527911",
+    "doi_url": "https://doi.org/10.1186/s12866-026-05455-0",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut microbiome"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-31",
+    "last_seen_date": "2026-08-04",
+    "content_hash": "cf45612229fe37e528e94256834e1a0345da1941",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-09-20T10:09:04+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The paper directly examines the impact of viral infection on the gut microbiome and microbial communities of bats.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "アストロウイルス（AstV）感染は野生動物において不顕性であることが多いが、宿主の腸内細菌叢との相互作用が健康に影響を及ぼす可能性がある。本研究では、パナマの原生林および断片化した森林に生息するコウモリ（Carollia perspicillata、n = 234）を対象に、自然AstV感染が腸内細菌叢に与える影響を調査した。AstV感染率は人間活動により改変された森林断片で高く、感染は腸内細菌叢のβ多様性の変化と関連していた。具体的には、感染個体においてLactococcus属などの有益な細菌が減少し、Helicobacter属などの潜在的な病原性細菌が増加していた。",
+    "summary_en": "This study investigated the impact of natural astrovirus (AstV) infection on the gut microbiome of Seba's short-tailed bats in Panama across different landscapes. AstV prevalence was higher in forest fragments, and infection was associated with significant shifts in microbial beta diversity. In AstV-positive bats, the abundance of potentially beneficial Lactococcus decreased, while potentially pathogenic Helicobacter increased. These findings suggest that habitat fragmentation and viral infection interact to alter the gut microbial communities of wildlife.",
+    "key_finding_ja": "コウモリにおけるアストロウイルス感染が、有益な乳酸菌の減少と潜在的病原体であるヘリコバクター属の増加を伴う腸内細菌叢の組成変化を引き起こすことを明らかにした。",
+    "why_it_matters_ja": "人為的に改変された環境における野生動物のウイルス感染と腸内細菌叢の乱れとの関連性を示したことは、ワンヘルス（One Health）の観点から野生動物の健康維持や人獣共通感染症のリスク評価において重要です。",
+    "article_type": "Research article",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-20T10:09:04+09:00"
+  },
+  {
+    "uid": "6eb2b5b5642fa6e7",
+    "stable_id": "10.1016/j.envres.2026.125332",
+    "source": "MED",
+    "source_id": "42520903",
+    "pmid": "42520903",
+    "pmcid": "",
+    "doi": "10.1016/j.envres.2026.125332",
+    "title": "Wastewater-Based Human Gut Microbiome Surveillance Links Microbial Signatures to Population Health in Ohio Communities.",
+    "abstract": "Wastewater-based epidemiology (WBE) has been widely used to track infectious diseases, yet its potential for population-level gut microbiome surveillance and broader public health assessment remains limited. Here, we present a multi-city study in Ohio, USA, demonstrating how sewage-derived human gut microbiome profiles can be leveraged to infer community health patterns. In this retrospective cross-sectional study, influent wastewater samples were collected from eight Ohio cities (May - June 2022). Community-level gut bacterial profiles were characterized and integrated with publicly available health, lifestyle, socioeconomic, and demographic data using geospatial analysis. Bioinformatic processing and multivariate statistical approaches, including principal component analysis and multiple linear regressions, were used to examine associations between microbial features and population health indicators. Distinct microbial signatures were observed across cities, including variation in clinically relevant taxa such as Bacteroidota, Desulfobacterota, Verrucomicrobiota, Akkermansia, Desulfovibrio, and Streptococcus. Several microbial features, including Firmicutes, Desulfovibrio, Acetobacterium, and alpha diversity, were significantly associated with indicators of chronic disease burden and health-related factors, including smoking, obesity, unemployment, and minority status. Notably, several microbial variables demonstrated statistical associations with multiple community health metrics (e.g., hypertension, high cholesterol, asthma, obesity, smoking, depression, and unemployment), and rural communities generally exhibited higher adverse health burdens alongside distinct microbiome profiles. These findings highlight the feasibility of integrating wastewater-based gut microbiome data with demographic and health indicators to evaluate community health disparities. This study expands the scope of WBE beyond infectious disease monitoring and supports its application in informing targeted and equitable public health interventions.",
+    "authors": "Lancaster E, Lee J.",
+    "journal": "Environmental research",
+    "publication_date": "2026-07-28",
+    "publication_date_parsed": "2026-07-28",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42520903",
+    "doi_url": "https://doi.org/10.1016/j.envres.2026.125332",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut bacteria",
+      "gut microbiome"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-30",
+    "last_seen_date": "2026-08-03",
+    "content_hash": "7d51b22e4a173dab03eba8c2616a26be4f2686a7",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-09-20T10:09:04+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The study investigates population-level human gut microbiome profiles and gut bacterial signatures in relation to health.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "本研究は、米国オハイオ州の8つの都市から採取した下水サンプルを用いて、地域社会レベルのヒト腸内細菌叢プロファイルを評価した。得られた細菌叢データと、公開されている健康、ライフスタイル、社会経済、人口統計データを地理空間分析および多変量統計解析を用いて統合した。その結果、Firmicutes門やDesulfovibrio属、Acetobacterium属、およびα多様性が、肥満、高血圧、うつ病、失業などの慢性疾患負担や健康関連因子と有意に関連していることが示された。特に地方のコミュニティでは、健康被害の負担が高く、特徴的な細菌叢プロファイルが観察された。",
+    "summary_en": "This study utilized wastewater-based epidemiology to monitor community-level human gut microbiome profiles across eight cities in Ohio, USA. By integrating sewage-derived microbial data with public health, socioeconomic, and demographic indicators, the researchers identified distinct microbial signatures associated with chronic disease burdens. Specific microbial features, such as Firmicutes, Desulfovibrio, and alpha diversity, were significantly linked to health-related factors including obesity, hypertension, and depression. These findings demonstrate the feasibility of using wastewater surveillance to assess population-level health disparities.",
+    "key_finding_ja": "下水由来の腸内細菌叢プロファイルが、肥満や高血圧、うつ病などの地域社会における慢性疾患の負担や社会経済的指標と有意に関連していることを明らかにした。",
+    "why_it_matters_ja": "下水ベースの疫学調査を感染症監視だけでなく腸内細菌叢を介した地域住民の健康状態や格差の評価にまで拡張することで、より効果的で公平な公衆衛生介入の立案に寄与する可能性があります。",
+    "article_type": "Research article",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-20T10:09:04+09:00"
+  },
+  {
     "uid": "f7875cfb4a54a40f",
     "stable_id": "10.1016/j.bbi.2026.106924",
     "source": "MED",
@@ -309,6 +432,71 @@
     "article_type": "Review",
     "summary_version": "2026-07-27-gemini-v7-five-categories",
     "summary_completed_at": "2026-09-10T10:05:47+09:00"
+  },
+  {
+    "uid": "4e83fa8b2291ea17",
+    "stable_id": "10.1038/s41564-026-02424-1",
+    "source": "MED",
+    "source_id": "42509267",
+    "pmid": "42509267",
+    "pmcid": "",
+    "doi": "10.1038/s41564-026-02424-1",
+    "title": "Unique adaptations in sulfatases underpin colonic mucin degradation by Akkermansia muciniphila.",
+    "abstract": "Excessive foraging of colonic mucin glycans by gut bacteria is associated with diseases such as inflammatory bowel disease. Although Akkermansia muciniphila is an important mucin degrader, the role of carbohydrate sulfatases that facilitate digestion of these heavily sulfated glycans remains unclear. Combining in vitro digestion assays, proteomics and structural biology, we show that A. muciniphila sulfatases, such as Amuc1755 and Amuc0953, have rare adaptations targeted towards known sulfated mucin structures. They show larger degrees of modularity, including a previously unknown mucin-binding domain. When grown on colonic mucin substrates, glycoproteins of reduced size were important for the growth of A. muciniphila. Further mutational analysis and localization studies revealed that desulfation of N-acetyl-D-glucosamine was periplasmic, while desulfation of D-galactose occurred extracellularly and in the periplasm. These data improve our understanding of contexts for the positive health correlations of A. muciniphila while metabolizing colonic mucin as its sole carbon source.",
+    "authors": "Dey D, Salman ND, Tomlinson CWE, Jin C, Raba G, Schaus SR, Nilsson M, McIver Z, Herman R, Simpkin A, Davy M, Rigden DJ, Czjzek M, Byrne DP, Oltean M, Case A, Baumann CG, Wright GSA, van der Post S, Yates EA, Martens EC, Davey L, Luis AS, Cartmell A.",
+    "journal": "Nature microbiology",
+    "publication_date": "2026-07-27",
+    "publication_date_parsed": "2026-07-27",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42509267",
+    "doi_url": "https://doi.org/10.1038/s41564-026-02424-1",
+    "matched_by": [
+      "journal",
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut bacteria"
+    ],
+    "journal_hits": [
+      "Nature",
+      "Nature Microbiology"
+    ],
+    "first_seen_date": "2026-07-30",
+    "last_seen_date": "2026-08-02",
+    "content_hash": "01ce672228a68bfafc1140315e16886c1d2abf65",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-09-20T10:09:04+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The paper focuses on the mechanisms of colonic mucin degradation by the gut bacterium Akkermansia muciniphila.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "腸内細菌であるAkkermansia muciniphilaは、大腸のムチンを分解する重要な細菌であるが、その高度に硫酸化された糖鎖の消化を促進するスルファターゼの役割は不明であった。本研究では、in vitro消化アッセイ、プロテオミクス、構造生物学を組み合わせ、Amuc1755やAmuc0953などのスルファターゼがムチン結合ドメインを含む独自の適応を有していることを明らかにした。さらに変異導入解析などにより、N-アセチル-D-グルコサミンの脱硫酸化はペリプラズムで行われ、D-ガラクトースの脱硫酸化は細胞外およびペリプラズムで行われることが示された。これらの知見は、本菌がムチンを唯一の炭素源として代謝する際の健康への好影響に関する理解を深めるものである。",
+    "summary_en": "This study investigated the role of carbohydrate sulfatases in the degradation of heavily sulfated colonic mucin by the gut bacterium Akkermansia muciniphila. Using in vitro assays, proteomics, and structural biology, the researchers identified unique adaptations in sulfatases like Amuc1755 and Amuc0953, including a novel mucin-binding domain. Localization studies revealed that desulfation of N-acetyl-D-glucosamine occurs in the periplasm, whereas D-galactose desulfation occurs both extracellularly and in the periplasm. These findings enhance our understanding of how A. muciniphila utilizes colonic mucin as a carbon source.",
+    "key_finding_ja": "Akkermansia muciniphilaのスルファターゼが、新規のムチン結合ドメインなどの独自の適応を有し、細胞内外の異なる部位で特定の糖の脱硫酸化を行うことを明らかにした。",
+    "why_it_matters_ja": "本菌によるムチン分解の分子メカニズムが解明されたことで、炎症性腸疾患などの病態における腸内細菌のムチン代謝の制御や、健康維持における役割の理解につながる可能性があります。",
+    "article_type": "Research article",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-20T10:09:04+09:00"
   },
   {
     "uid": "b44a2ba0114c7f2e",
@@ -557,8 +745,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 43,
-    "slack_last_attempt": "2026-09-18T10:21:19+09:00"
+    "slack_attempts": 44,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "9b3422e159a29825",
@@ -622,8 +810,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 41,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 42,
+    "slack_last_attempt": "2026-09-19T10:13:22+09:00"
   },
   {
     "uid": "9c99df7e1049e707",
@@ -687,8 +875,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 43,
-    "slack_last_attempt": "2026-09-18T10:21:19+09:00"
+    "slack_attempts": 44,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "fc3bafbd394b81c9",
@@ -874,8 +1062,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 41,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 42,
+    "slack_last_attempt": "2026-09-19T10:13:22+09:00"
   },
   {
     "uid": "391b9dfad5525894",
@@ -940,8 +1128,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 43,
-    "slack_last_attempt": "2026-09-18T10:21:19+09:00"
+    "slack_attempts": 44,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "052495a0d82ed1b0",
@@ -1007,8 +1195,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 43,
-    "slack_last_attempt": "2026-09-18T10:21:19+09:00"
+    "slack_attempts": 44,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "38d6f770748b9d29",
@@ -1075,8 +1263,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 41,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 42,
+    "slack_last_attempt": "2026-09-19T10:13:22+09:00"
   },
   {
     "uid": "b703b8ab3a73288e",
@@ -1515,8 +1703,71 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 43,
-    "slack_last_attempt": "2026-09-18T10:21:19+09:00"
+    "slack_attempts": 44,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
+  },
+  {
+    "uid": "ca89224b4bf417e4",
+    "stable_id": "10.1002/advs.76721",
+    "source": "MED",
+    "source_id": "42517610",
+    "pmid": "42517610",
+    "pmcid": "",
+    "doi": "10.1002/advs.76721",
+    "title": "Ultrasound-Activated Piezoelectric Neuroimmune Hydrogel Orchestrates Neurogenesis-Macrophage Crosstalk in Diabetic Wound Healing.",
+    "abstract": "Chronic diabetic wounds remain a major clinical challenge due to persistent inflammation, impaired neuro-immune crosstalk, and dysregulated macrophage polarization. Here, we report an injectable, ultrasound (US)-activated piezoelectric hydrogel that programmably couples neurogenesis and macrophage reprogramming to accelerate diabetic wound repair. The hydrogel is constructed from dynamic covalent networks among acyl hydrazide hyaluronic acid, benzene boronic acid modified oxidized sodium alginate, and epigallocatechin 3-gallate, and integrates a neuroactive self-assembling peptide and piezoelectric PLLA nanofibers. This design confers the hydrogel with injectability, self-healing, tissue adhesion, and US-triggered electrical signaling. In vitro, the hydrogel under US promotes M2 macrophage polarization and enhances axonal outgrowth of dorsal root ganglion neurons, establishing bidirectional neurogenesis-macrophage crosstalk. In a type II diabetic mouse model, the hydrogel markedly accelerates wound closure, elevates the M2/M1 ratio, enhances reinnervation and angiogenesis, and improves collagen remodeling. Transcriptomic analysis of cells and wound tissues identifies coordinated regulation of mitochondrial function and oxidative phosphorylation as a central mechanism. In a diabetic rabbit ear model, the hydrogel with US further attenuates hypertrophic scar formation. This programmable piezoelectric hydrogel converts noninvasive US into spatially confined bioelectrical and biochemical cues, offering a promising strategy to overcome multifactorial barriers in diabetic wound healing.",
+    "authors": "Wang K, Zhuo S, Song B, Chen J, Zhao X, Li S, You S, Jiang D, Chen Y, Dang J, Wang T, Guo B, Yu Z, Song B.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "publication_date": "2026-07-28",
+    "publication_date_parsed": "2026-07-28",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42517610",
+    "doi_url": "https://doi.org/10.1002/advs.76721",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "neuroimmune"
+    ],
+    "journal_hits": [
+      "Science"
+    ],
+    "first_seen_date": "2026-07-30",
+    "last_seen_date": "2026-08-03",
+    "content_hash": "12b770c344e050a9e2d8adc684bb0b98b624979c",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-09-20T10:09:04+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 90,
+    "screening_reason": "The study directly investigates bidirectional neurogenesis-macrophage crosstalk and neuroimmune-associated signaling in wound healing.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "neuroimmunology",
+    "category_ja": "神経免疫",
+    "category_en": "Neuroimmunology",
+    "summary_ja": "糖尿病性創傷の治癒遅延は、持続的な炎症や神経免疫クロストークの障害が原因となる。本研究では、超音波活性化によって神経再生とマクロファージの再プログラミングを協調的に制御する、注入可能な圧電ハイドロゲルを開発した。このハイドロゲルは、超音波照射下でM2マクロファージへの分極を促進し、後根神経節ニューロンの軸索伸長を増強して、双方向の神経・マクロファージ相互作用を確立した。2型糖尿病マウスモデルにおいて、創傷閉鎖の加速、再神経支配および血管新生の亢進、コラーゲン再構築の改善が確認された。",
+    "summary_en": "To address impaired neuro-immune crosstalk in chronic diabetic wounds, researchers developed an injectable, ultrasound-activated piezoelectric hydrogel. In vitro, the hydrogel under ultrasound promoted M2 macrophage polarization and enhanced axonal outgrowth of dorsal root ganglion neurons. In a type II diabetic mouse model, it significantly accelerated wound closure, enhanced reinnervation, and improved tissue remodeling. Transcriptomic analysis suggested that the coordinated regulation of mitochondrial function and oxidative phosphorylation underlies these therapeutic effects.",
+    "key_finding_ja": "超音波活性化圧電ハイドロゲルが、M2マクロファージ分極と感覚神経軸索伸長を同時に促進し、糖尿病マウスモデルにおける創傷治癒と再神経支配を著しく加速させることを示した。",
+    "why_it_matters_ja": "非侵襲的な超音波を局所的なバイオ電気・生化学シグナルに変換する本技術は、難治性糖尿病性創傷に対する新しい神経免疫標的治療法として応用されることが期待されます。",
+    "article_type": "Research article",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-20T10:09:04+09:00"
   },
   {
     "uid": "e1abcc09cbd9a4cd",
@@ -1768,6 +2019,68 @@
     "summary_completed_at": "2026-09-10T10:06:24+09:00"
   },
   {
+    "uid": "59c075014867fc57",
+    "stable_id": "10.1016/j.pnpbp.2026.111861",
+    "source": "MED",
+    "source_id": "42503325",
+    "pmid": "42503325",
+    "pmcid": "",
+    "doi": "10.1016/j.pnpbp.2026.111861",
+    "title": "Vitamin B12-mediated microglial immunometabolic reprogramming: A novel mechanistic insight into diabetes-associated cognitive impairment.",
+    "abstract": "Diabetes-associated cognitive impairment (DCI) is an increasingly recognized neurological complication of type 2 diabetes mellitus characterized by chronic neuroinflammation and microglial immunometabolic dysregulation. Vitamin B12 (VB12) deficiency, which is highly prevalent in patients with diabetes, has been strongly associated with cognitive decline, hippocampal atrophy, and white matter injury. Emerging evidence suggests that VB12 plays a critical role in maintaining one‑carbon metabolism, mitochondrial function, and redox homeostasis. Mechanistically, VB12 deficiency promotes homocysteine accumulation, disrupts the S-adenosylmethionine/S-adenosylhomocysteine balance, impairs mitochondrial oxidative phosphorylation, and enhances oxidative stress, thereby driving pro-inflammatory microglial activation and sustained neuroinflammation. In addition, gut microbiota dysbiosis, particularly reduced abundance of Akkermansia muciniphila and other VB12-producing bacteria, may further impair VB12 bioavailability and aggravate neuroinflammation through the gut-brain axis. This review summarizes current evidence linking VB12 deficiency to microglial immunometabolic remodeling in DCI and discusses the therapeutic potential of targeting VB12 metabolism and gut microbial ecology for preventing diabetes-related cognitive decline.",
+    "authors": "Zhang X, Li J, An Y, Zheng J, Xu G, Wang J, Chen L, Lu Y.",
+    "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+    "publication_date": "2026-07-26",
+    "publication_date_parsed": "2026-07-26",
+    "pub_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42503325",
+    "doi_url": "https://doi.org/10.1016/j.pnpbp.2026.111861",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "neuroinflammation"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-30",
+    "last_seen_date": "2026-08-01",
+    "content_hash": "e619fa6580e1e485324b4ebf417ada36cfbc1366",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-09-20T10:09:04+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 90,
+    "screening_reason": "The review focuses on microglial immunometabolic reprogramming, neuroinflammation, and gut-brain axis interactions in cognitive impairment.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "neuroimmunology",
+    "category_ja": "神経免疫",
+    "category_en": "Neuroimmunology",
+    "summary_ja": "糖尿病関連認知障害（DCI）は、慢性的な神経炎症とミクログリアの免疫代謝異常を特徴とする合併症である。本総説では、糖尿病患者で頻度の高いビタミンB12（VB12）欠乏が、ミクログリアの炎症性活性化と持続的な神経炎症を引き起こすメカニズムをまとめている。VB12欠乏は、ホモシステインの蓄積やミトコンドリアの酸化的リン酸化の障害、酸化ストレスの増強を介してミクログリアの代謝を再編成する。さらに、Akkermansia muciniphilaなどのVB12産生腸内細菌の減少を伴う腸内細菌叢の乱れが、VB12の生体利用能を低下させ、脳腸軸を介して神経炎症を悪化させる可能性についても議論している。",
+    "summary_en": "This review highlights the role of vitamin B12 (VB12) deficiency in driving microglial immunometabolic dysregulation and chronic neuroinflammation in diabetes-associated cognitive impairment. VB12 deficiency impairs mitochondrial oxidative phosphorylation and increases oxidative stress, promoting pro-inflammatory microglial activation. Additionally, gut microbiota dysbiosis, characterized by a reduction in VB12-producing bacteria, may further decrease VB12 bioavailability and exacerbate neuroinflammation via the gut-brain axis. The authors discuss the therapeutic potential of targeting VB12 metabolism and gut microbial ecology to prevent cognitive decline.",
+    "key_finding_ja": "ビタミンB12欠乏がミクログリアの免疫代謝再編成と炎症性活性化を誘導するメカニズム、および腸内細菌叢の乱れがそれに与える影響を整理した。",
+    "why_it_matters_ja": "ビタミンB12代謝や腸内細菌叢を標的とした新たなアプローチが、糖尿病に伴う認知機能低下の予防や治療戦略の開発に寄与する可能性があります。",
+    "article_type": "Review",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-20T10:09:04+09:00"
+  },
+  {
     "uid": "4b30225dd1a752c1",
     "stable_id": "10.1016/j.expneurol.2026.115940",
     "source": "MED",
@@ -1892,8 +2205,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 43,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 44,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "854286b777dc0f67",
@@ -1960,8 +2273,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 43,
-    "slack_last_attempt": "2026-09-18T10:21:19+09:00"
+    "slack_attempts": 44,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "a99c77dc80af0b68",
@@ -2026,8 +2339,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 43,
-    "slack_last_attempt": "2026-09-18T10:21:19+09:00"
+    "slack_attempts": 44,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "809db6c31568b534",
@@ -2092,8 +2405,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 43,
-    "slack_last_attempt": "2026-09-18T10:21:19+09:00"
+    "slack_attempts": 44,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "900f87cfef394d96",
@@ -2280,8 +2593,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 43,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 44,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "cfd12c5139555ec8",
@@ -2346,8 +2659,8 @@
     "summary_completed_at": "2026-08-04T17:18:23+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 42,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 43,
+    "slack_last_attempt": "2026-09-19T10:13:22+09:00"
   },
   {
     "uid": "6afaddc6d59ae991",
@@ -2599,8 +2912,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 42,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 43,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "05005d85dd5e1f48",
@@ -2664,8 +2977,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 42,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 43,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "e250b873bd383c90",
@@ -2790,8 +3103,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 42,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 43,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "4f8333e6107de511",
@@ -2857,8 +3170,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 42,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 43,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "5177d2e8437ac850",
@@ -2922,8 +3235,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 42,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 43,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   },
   {
     "uid": "5778ae56b5ec6015",
@@ -3176,7 +3489,7 @@
     "summary_completed_at": "2026-08-04T17:18:23+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 42,
-    "slack_last_attempt": "2026-09-18T10:21:20+09:00"
+    "slack_attempts": 43,
+    "slack_last_attempt": "2026-09-19T10:13:21+09:00"
   }
 ]

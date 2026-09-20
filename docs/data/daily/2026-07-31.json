@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "uid": "e469b4b3837fc9f4",
+    "stable_id": "10.1186/s12866-026-05455-0",
+    "source": "MED",
+    "source_id": "42527911",
+    "pmid": "42527911",
+    "pmcid": "",
+    "doi": "10.1186/s12866-026-05455-0",
+    "title": "Astrovirus infection alters gut microbial communities in a widespread neotropical bat across human-modified landscapes.",
+    "abstract": "Astroviruses are becoming a growing concern in public and veterinary health. In humans, astrovirus infections can cause severe diarrhea and may lead to neuropathological encephalitis, whereas in wildlife, these enteropathogenic viral infections often lack overt symptoms and thus remain unnoticed. Yet their close interaction with the host's gastrointestinal microbiome might drive cascading effects with disadvantages for host health. Bats harbor many zoonotic viruses without showing signs of disease, and many species move freely along the gradient from pristine to agricultural landscapes. To better understand the impact of astrovirus (AstV) infection under a One Health framework, we investigated the gut microbiome of naturally AstV-infected Seba's short-tailed bats (Carollia perspicillata, n = 234) inhabiting old-growth lowland forests or forest fragments embedded in an agricultural matrix in Panama. AstV prevalence was higher in forest fragments. We observed that AstV infection is associated with a shift in microbial beta but not alpha diversity, which points towards the replacement of common gut microbial taxa when infected. Indeed, potentially beneficial bacteria, such as Lactococcus, decreased in abundance, whereas potentially pathogenic bacteria from the Helicobacter genus increased in AstV-positive bats. Two Helicobacter haplotypes closely related to avian Helicobacter species were identified. We conclude that even though the impact of infection on the microbiome was not amplified in forest fragments, the higher infection likelihood in landscapes altered by humans implies more frequent or prolonged health repercussions for bats.",
+    "authors": "Brändel SD, Melville DW, Wilhelm K, Corman VM, Page R, Drosten C, Tschapka M, Sommer S, Wasimuddin.",
+    "journal": "BMC microbiology",
+    "publication_date": "2026-07-29",
+    "publication_date_parsed": "2026-07-29",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42527911",
+    "doi_url": "https://doi.org/10.1186/s12866-026-05455-0",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut microbiome"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-31",
+    "last_seen_date": "2026-08-04",
+    "content_hash": "cf45612229fe37e528e94256834e1a0345da1941",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-09-20T10:09:04+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The paper directly examines the impact of viral infection on the gut microbiome and microbial communities of bats.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "アストロウイルス（AstV）感染は野生動物において不顕性であることが多いが、宿主の腸内細菌叢との相互作用が健康に影響を及ぼす可能性がある。本研究では、パナマの原生林および断片化した森林に生息するコウモリ（Carollia perspicillata、n = 234）を対象に、自然AstV感染が腸内細菌叢に与える影響を調査した。AstV感染率は人間活動により改変された森林断片で高く、感染は腸内細菌叢のβ多様性の変化と関連していた。具体的には、感染個体においてLactococcus属などの有益な細菌が減少し、Helicobacter属などの潜在的な病原性細菌が増加していた。",
+    "summary_en": "This study investigated the impact of natural astrovirus (AstV) infection on the gut microbiome of Seba's short-tailed bats in Panama across different landscapes. AstV prevalence was higher in forest fragments, and infection was associated with significant shifts in microbial beta diversity. In AstV-positive bats, the abundance of potentially beneficial Lactococcus decreased, while potentially pathogenic Helicobacter increased. These findings suggest that habitat fragmentation and viral infection interact to alter the gut microbial communities of wildlife.",
+    "key_finding_ja": "コウモリにおけるアストロウイルス感染が、有益な乳酸菌の減少と潜在的病原体であるヘリコバクター属の増加を伴う腸内細菌叢の組成変化を引き起こすことを明らかにした。",
+    "why_it_matters_ja": "人為的に改変された環境における野生動物のウイルス感染と腸内細菌叢の乱れとの関連性を示したことは、ワンヘルス（One Health）の観点から野生動物の健康維持や人獣共通感染症のリスク評価において重要です。",
+    "article_type": "Research article",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-20T10:09:04+09:00"
+  }
+]
