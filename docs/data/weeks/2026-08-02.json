@@ -126,6 +126,316 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00"
   },
   {
+    "uid": "8ad10560a7b2d715",
+    "stable_id": "10.1080/1028415x.2026.2710185",
+    "source": "MED",
+    "source_id": "42530981",
+    "pmid": "42530981",
+    "pmcid": "",
+    "doi": "10.1080/1028415x.2026.2710185",
+    "title": "Dietary plant polysaccharides as modulators of brain aging: mechanistic links to inflammaging, the gut brain axis and amyloid tau pathology.",
+    "abstract": "Objectives: This review critically evaluates chemically characterized plant-derived polysaccharides (PS) as dietary modulators of brain aging, focusing on their structural features, gut-brain mechanisms and effects on neuroinflammation, amyloid pathology and tau-related pathways. Methods: Molecular, in vitro, preclinical and early human studies were critically examined. Evidence was assessed in relation to PS molecular weight, branching, charge, monosaccharide composition, purity, fermentability, dosage and associated non-carbohydrate constituents. Particular attention was given to gut microbiota modulation, short-chain fatty acid (SCFA) production, barrier integrity, immune signaling, microglial activation and neurodegenerative biomarkers. Results: Fermentable plant PS altered gut microbial composition and increased acetate, propionate and butyrate production in experimental models. These SCFAs may influence brain aging through FFAR2/FFAR3 signaling and histone deacetylase inhibition, thereby improving intestinal barrier function, regulating peripheral inflammation and modifying microglial responses. Direct anti-amyloid effects were supported mainly by in vitro studies, whereas evidence for tau modulation remained indirect and predominantly preclinical. Animal studies provided the strongest causal support, particularly through microbiota-transfer, antibiotic-depletion and receptor-pathway experiments. Human evidence was limited to associative studies and small fiber or prebiotic trials. Reported PS molecular masses ranged from about 10 kDa to more than 1,000 kDa, with preclinical doses of 50-500 mg/kg and human intakes of 5-15 g/day. Discussion: Plant PS are promising dietary modulators of brain aging but not established neurotherapeutics. Translation requires standardized fractions, control of co-extracted phenolics and proteins, dose-response studies and biomarker-rich clinical trials incorporating stool and plasma SCFAs, inflammatory markers, neurofilament light, phosphorylated tau, cognitive outcomes and neuroimaging measures.",
+    "authors": "Bagul VS, Mutha RE.",
+    "journal": "Nutritional neuroscience",
+    "publication_date": "2026-07-30",
+    "publication_date_parsed": "2026-07-30",
+    "pub_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42530981",
+    "doi_url": "https://doi.org/10.1080/1028415x.2026.2710185",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "neuroinflammation"
+    ],
+    "journal_hits": [
+      "Science"
+    ],
+    "first_seen_date": "2026-07-31",
+    "last_seen_date": "2026-08-05",
+    "content_hash": "4f2cd1328c2e734583880859da0fd7c8d840c186",
+    "late_indexed": false,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 4,
+    "summary_last_attempt": "2026-09-23T10:40:51+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The review examines the links between dietary polysaccharides, gut microbiota modulation, the gut-brain axis, and neuroinflammation.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "neuroimmunology",
+    "category_ja": "神経免疫",
+    "category_en": "Neuroimmunology",
+    "summary_ja": "本レビューは、植物由来多糖類（PS）が腸・脳軸、神経炎症、アミロイドおよびタウ病理に及ぼす影響と、脳老化修飾因子としての可能性を評価しています。発酵性植物多糖類は腸内細菌叢の組成を変化させ、短鎖脂肪酸（SCFA）の産生を増加させることが実験モデルで示されています。これらのSCFAは、腸管バリア機能の改善や末梢炎症の制御、ミクログリア応答の修飾を通じて脳老化に影響を与える可能性があります。しかし、直接的な抗アミロイド効果は主に試験管内研究に留まり、タウ修飾に関する証拠も間接的かつ前臨床段階のものです。",
+    "summary_en": "This review evaluates plant-derived polysaccharides as dietary modulators of brain aging, focusing on their gut-brain mechanisms and neuroinflammatory pathways. Fermentable polysaccharides increase short-chain fatty acid production in experimental models, potentially regulating microglial responses and peripheral inflammation. However, direct anti-amyloid and tau-modulating effects remain largely limited to in vitro and preclinical studies.",
+    "key_finding_ja": "植物由来多糖類は腸内細菌叢を介した短鎖脂肪酸産生を促進し、脳老化や神経炎症を修飾する可能性が示されているが、その直接的な治療効果の証拠は主に前臨床段階に留まっている。",
+    "why_it_matters_ja": "食事性多糖類による脳老化抑制の臨床応用には、標準化された画分の使用や、便・血漿中のバイオマーカーを用いた厳密な臨床試験による検証が求められる。",
+    "article_type": "Review",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-23T10:40:51+09:00"
+  },
+  {
+    "uid": "9acc4f88cfb8bf40",
+    "stable_id": "10.1007/s00535-026-02487-1",
+    "source": "MED",
+    "source_id": "42530606",
+    "pmid": "42530606",
+    "pmcid": "",
+    "doi": "10.1007/s00535-026-02487-1",
+    "title": "Clinical applications of gut microbiome for non-invasive diagnosis of colorectal neoplasia.",
+    "abstract": "Colorectal cancer (CRC) is the third most common malignancy and the second leading cause of cancer-related death worldwide. While screening programs have reduced mortality, current stool-based tests such as the faecal immunochemical test (FIT) and tumour marker assays, remain limited in sensitivity for adenoma detection and rely on relatively later-stage biological signals in the carcinogenic process. False positives lead to unnecessary invasive procedures, whilst missed adenomas continue to progress, highlighting the need for alternative strategies. Accumulating evidence implicates the gut microbiome in CRC pathogenesis, which involves tumour-associated dysbiosis and microbial ecosystem shifts. Multinational metagenomic studies have consistently identified reproducible microbial signatures that can serve as biomarkers of disease and may predate the biological signals used in conventional screening. PCR-based microbial markers have emerged as practical tools for clinical application, enabling sensitive and specific detection of adenomas and CRC. A recent microbial panel incorporating Fusobacterium nucleatum, Hungatella hathewayi, Christensenella hongkongensis, and a novel bacterial gene marker m3 from Lachnoclostridium demonstrated improved sensitivity for adenomas whilst maintaining comparable accuracy for CRC. International guidelines have begun to recommend combining microbiome-based assays with FIT into integrated screening programs that target multiple biologic processes across the pathogenesis. Microbiome-based stool testing represents a promising non-invasive approach that improves detection of adenomas in early-stage disease, often missed by FIT alone and could enable more refined risk stratification. Further validation across diverse populations, assessment of cost-effectiveness, and integration into established screening infrastructures will be critical for broad clinical adoption.",
+    "authors": "Cui C, Shi H, Naito Y, Otani K, Chan FKL.",
+    "journal": "Journal of gastroenterology",
+    "publication_date": "2026-07-30",
+    "publication_date_parsed": "2026-07-30",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42530606",
+    "doi_url": "https://doi.org/10.1007/s00535-026-02487-1",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut microbiome"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-31",
+    "last_seen_date": "2026-08-05",
+    "content_hash": "3fcffd57f85c5c2231215d0ce7c0de27c3743699",
+    "late_indexed": false,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 4,
+    "summary_last_attempt": "2026-09-23T10:40:51+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The paper focuses on the clinical applications of the gut microbiome and microbial signatures for diagnosing colorectal neoplasia.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "大腸がん（CRC）のスクリーニングにおいて、便潜血化学検査（FIT）などの既存の検査法は腺腫検出の感度が低いという課題があります。近年のメタゲノム研究により、大腸がんの病態に関与する再現性の高い腸内細菌叢シグネチャーが同定され、バイオマーカーとしての活用が期待されています。特に、Fusobacterium nucleatumやLachnoclostridium由来の新規遺伝子マーカーなどを組み合わせた細菌パネルは、腺腫に対する検出感度を向上させることが示されています。腸内細菌叢ベースの検査とFITを組み合わせた統合的スクリーニングは、早期発見を改善する有望な非侵襲的アプローチとして注目されています。",
+    "summary_en": "Conventional stool-based tests for colorectal cancer screening have limited sensitivity for detecting early-stage adenomas. Recent metagenomic studies have identified reproducible gut microbial signatures that can serve as non-invasive biomarkers for early detection. Combining microbiome-based assays with conventional tests like FIT represents a promising strategy to improve adenoma detection and risk stratification.",
+    "key_finding_ja": "腸内細菌叢の特定の細菌や遺伝子マーカーを組み合わせたパネル検査は、従来の便潜血検査単独よりも大腸腺腫の検出感度を向上させることが示されている。",
+    "why_it_matters_ja": "腸内細菌叢を利用した非侵襲的スクリーニングが確立されれば、大腸がんの早期発見率が向上し、不要な侵襲的検査を減らせる可能性があるが、多様な集団での検証が必要である。",
+    "article_type": "Review",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-23T10:40:51+09:00"
+  },
+  {
+    "uid": "9cfd7dfa799de182",
+    "stable_id": "10.1016/j.jep.2026.122252",
+    "source": "MED",
+    "source_id": "42526548",
+    "pmid": "42526548",
+    "pmcid": "",
+    "doi": "10.1016/j.jep.2026.122252",
+    "title": "Forsythiae Fructus attenuates DSS-induced colitis and associated neuroinflammation with modulation of AMPK/mTOR-related autophagy signaling.",
+    "abstract": "Ethnopharmacological relevance Forsythiae Fructus, the dried fruit of Forsythia suspensa (Thunb.) Vahl is a traditional herbal medicine widely used in East Asia for inflammatory disorders. Although Forsythiae Fructus exhibits anti-inflammatory activity in experimental colitis, its effects on colitis-associated brain inflammation and autophagy-related signaling remain unclear. Aim of the study This study investigated the protective effects of Forsythiae Fructus extract (FF) on intestinal and brain inflammatory responses in dextran sulfate sodium (DSS)-induced colitis mice and explored the involvement of AMPK/mTOR-related signaling. Materials and methods Mice received FF (100 mg/kg) or 5-aminosalicylic acid (ASA, 100 mg/kg) by oral gavage once daily for 15 days. DSS (5%, w/v) was administered in drinking water from day 7 to day 12, followed by a 3-day recovery period with normal drinking water (day 12-15). Disease severity, intestinal permeability, inflammatory mediators, and autophagy-related markers in the colon and brain were assessed using endoscopy, histology, ELISA, immunoblotting, immunofluorescence, and RT-qPCR. Results FF substantially alleviated DSS-induced colitis by attenuating body weight loss (-9.0% vs. -17.1% in DSS), reducing the disease activity index by approximately 40%, increasing colon length by 18%, and decreasing intestinal permeability by approximately 59%. FF restored epithelial barrier integrity by increasing Occludin, ZO-1, Muc2, and Tff3 expression. It also decreased IL-1β, IL-6, and TNF-α levels in the colon, serum, and brain, accompanied by reduced microglial activation and NF-κB signaling. FF increased AMPK phosphorylation and LC3B-II/LC3B-I ratios while reducing mTOR activation and SQSTM1 accumulation in both colon and brain tissues. Conclusions FF effectively alleviated DSS-induced colitis, reducing disease activity by approximately 40% and restoring intestinal barrier function. These protective effects were accompanied by suppression of intestinal and brain inflammatory responses and modulation of AMPK/mTOR-related autophagy signaling. These findings provide experimental support for the traditional use of FF in inflammatory disorders and highlight its potential as a protective candidate for ulcerative colitis and its associated gut-brain inflammatory manifestations.",
+    "authors": "Park YJ, Pak ME, Yang HJ, Jin HJ, Kim KY, Hwang YH, Li W, Go Y.",
+    "journal": "Journal of ethnopharmacology",
+    "publication_date": "2026-07-29",
+    "publication_date_parsed": "2026-07-29",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42526548",
+    "doi_url": "https://doi.org/10.1016/j.jep.2026.122252",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "neuroinflammation"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-31",
+    "last_seen_date": "2026-08-04",
+    "content_hash": "657a66b1c1938929c383c50c9064a15626b73e7e",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 1,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 4,
+    "summary_last_attempt": "2026-09-23T10:40:51+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The study investigates the attenuation of colitis and associated neuroinflammation, focusing on gut-brain inflammatory manifestations.",
+    "screening_method": "gemini",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "neuroimmunology",
+    "category_ja": "神経免疫",
+    "category_en": "Neuroimmunology",
+    "summary_ja": "東アジアで炎症性疾患に用いられる伝統生薬である連翹（Forsythiae Fructus）の、大腸炎およびそれに伴う脳内炎症（神経炎症）に対する効果をマウスモデルで検証しました。デキストラン硫酸ナトリウム（DSS）誘発大腸炎マウスにおいて、連翹抽出物の経口投与は体重減少や大腸の短縮を抑制し、腸管バリア機能を回復させました。さらに、連翹は大腸、血清、および脳における炎症性サイトカインのレベルを低下させ、ミクログリアの活性化を抑制しました。これらの保護効果には、大腸および脳組織におけるAMPK/mTORを介したオートファジーシグナル伝達の調節が関与していることが示されました。",
+    "summary_en": "This study investigated the protective effects of Forsythiae Fructus extract (FF) on intestinal and brain inflammatory responses in DSS-induced colitis mice. Oral administration of FF alleviated colitis severity, restored epithelial barrier integrity, and reduced inflammatory cytokines in the colon, serum, and brain. These protective effects were accompanied by the suppression of microglial activation and the modulation of AMPK/mTOR-related autophagy signaling.",
+    "key_finding_ja": "連翹抽出物は、DSS誘発大腸炎マウスにおいて腸管バリア機能を回復させるとともに、AMPK/mTORシグナル調節を介して大腸および脳の炎症反応（神経炎症）を抑制する。",
+    "why_it_matters_ja": "本研究は、連翹が潰瘍性大腸炎およびそれに伴う腸・脳相関の炎症性病態に対する新たな治療候補となる可能性を実験的に示している。",
+    "article_type": "Research article",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-23T10:40:51+09:00"
+  },
+  {
+    "uid": "bdcbd8c7c36a93c7",
+    "stable_id": "10.1016/j.adaj.2026.04.020",
+    "source": "MED",
+    "source_id": "42524765",
+    "pmid": "42524765",
+    "pmcid": "",
+    "doi": "10.1016/j.adaj.2026.04.020",
+    "title": "Evolution of the fecal and oral microbiota after prophylactic antibiotics administered for dental surgeries.",
+    "abstract": "Background The human oral and gut microbiomes play critical roles in maintaining overall health. Although systemic antibiotics are frequently prescribed perioperatively in dental procedures, their impact on microbiota composition and diversity remains inadequately understood. The authors' objective was to characterize the evolution of the gut and oral microbiomes after a course of antibiotics administered for dental surgeries. The authors hypothesized that the microbiome would experience disruption but eventually recover to baseline levels and that patient-related factors would influence the extent of disruption and recovery. Methods Saliva and stool samples were collected from patients undergoing dental surgeries and receiving prophylactic antibiotics (n = 64) at baseline and then at 3, 10, 30, and 90 days after surgery. Microbial diversity and composition were assessed using 16S ribosomal RNA sequencing. Shotgun metagenomics sequencing was applied to a subset of samples to evaluate changes in antimicrobial resistance genes. Results Significant (P Conclusions The findings highlight the dynamic response of the human microbiome to antibiotic exposure and oral surgery and underscore the importance of antibiotic stewardship in practice. Further research on functional outcomes and host-microbiome interactions is warranted to optimize perioperative care in dentistry. Practical implications Consideration of patient factors is essential to minimize unnecessary disruption of the microbiome and mitigate the risk of developing resistance.",
+    "authors": "Littlejohn C, Chang YC, Teles F, Korostoff JM, Redding LE.",
+    "journal": "Journal of the American Dental Association (1939)",
+    "publication_date": "2026-07-29",
+    "publication_date_parsed": "2026-07-29",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42524765",
+    "doi_url": "https://doi.org/10.1016/j.adaj.2026.04.020",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut microbiome"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-31",
+    "last_seen_date": "2026-08-04",
+    "content_hash": "9a5a8829d2b93704b9a22d1058639e5e4b0ef492",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 4,
+    "summary_last_attempt": "2026-09-23T10:40:51+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The study characterizes the evolution and disruption of the human gut microbiome following antibiotic administration.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "歯科手術において予防的抗菌薬が頻繁に処方されますが、口腔および腸内細菌叢への影響は十分に解明されていません。本研究では、歯科手術に伴い予防的抗菌薬を投与された患者64名を対象に、術前および術後3、10、30、90日目の唾液と糞便サンプルを解析しました。その結果、抗菌薬投与後に微生物の多様性と組成に有意な変化が観察され、一部の患者では術後90日目でもベースラインへの完全な回復が見られませんでした。また、ショットガンメタゲノミクス解析により、抗菌薬耐性遺伝子のプロファイルにも変化が生じることが示されました。",
+    "summary_en": "This study evaluated the impact of prophylactic antibiotics on the oral and gut microbiomes of 64 patients undergoing dental surgeries. Significant disruptions in microbial diversity and composition were observed after antibiotic administration, with some patients failing to fully recover to baseline by day 90. Shotgun metagenomics also revealed alterations in antimicrobial resistance gene profiles following treatment.",
+    "key_finding_ja": "歯科手術時の予防的抗菌薬投与は、口腔および腸内細菌叢の多様性と組成に有意な破壊を引き起こし、一部の患者では術後90日を経過しても完全には回復しない。",
+    "why_it_matters_ja": "歯科領域における不必要な抗菌薬処方を減らし、耐性菌リスクを抑制するためには、患者個別の要因を考慮した適切な抗菌薬適正使用（スチュワードシップ）が重要である。",
+    "article_type": "Clinical study",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-23T10:40:51+09:00"
+  },
+  {
+    "uid": "5863d16c4813ae3a",
+    "stable_id": "10.1016/j.pnpbp.2026.111860",
+    "source": "MED",
+    "source_id": "42526737",
+    "pmid": "42526737",
+    "pmcid": "",
+    "doi": "10.1016/j.pnpbp.2026.111860",
+    "title": "Cannabinoid receptor-mediated modulation of the gut-brain axis under chronic stress: Neuroinflammatory mechanisms, microbial metabolites, and sexual dimorphism.",
+    "abstract": "Chronic stress disrupts the gut-brain axis (GBA) through coordinated dysfunction of the intestinal barrier and of the vascular interfaces that protect the brain, fostering a neuroinflammatory state implicated in mood disorders, neuropsychiatric conditions, and chronic pain. This narrative review synthesizes evidence across five domains. First, the inflammatory cascade by which stress-induced disruption of the epithelial and gut vascular barriers activates the NLRP3 inflammasome and sustains central neuroinflammation. Second, microbial metabolites, namely short-chain fatty acids (SCFAs), tryptophan-kynurenine products, and indole derivatives, as modulators of gut-brain homeostasis. Third, the gut microbiome-endocannabinoidome axis, including the capacity of commensal bacteria to generate endocannabinoid-like N-acyl amides that engage host receptors. Fourth, the receptor-specific pharmacology of phytocannabinoids, distinguishing Δ9-tetrahydrocannabinol (THC), which acts principally at CB1 and CB2 with comparable affinity, from cannabidiol (CBD), which has low affinity for these receptors and signals mainly through TRPV1, TRPA1, GPR55, PPARs, and 5-HT1A. Fifth, sexual dimorphism in barrier vulnerability and treatment response. In rodent models, chronic stress reduces intestinal and blood-brain barrier tight junction expression, elevates circulating lipopolysaccharide, and activates the NLRP3 inflammasome, while tryptophan metabolism shifts toward neurotoxic kynurenine products. Cannabinoid modulation of the kynurenine pathway and cannabinoid-mediated restoration of blood-brain barrier integrity remain mechanistic hypotheses extrapolated from indirect evidence rather than demonstrated mechanisms in chronic psychological stress paradigms. Human data are largely limited to small trials of microbiota-targeted interventions and of CBD in anxiety, and to observational endocannabinoidome-microbiome studies. These observations provide a preclinical rationale for GBA-targeted pharmacological strategies, with translational claims explicitly separated from mechanistic plausibility.",
+    "authors": "Neves LBM, Domingues D, Baldessarini BL, Laino P, Lima BC.",
+    "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+    "publication_date": "2026-07-29",
+    "publication_date_parsed": "2026-07-29",
+    "pub_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42526737",
+    "doi_url": "https://doi.org/10.1016/j.pnpbp.2026.111860",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut microbiome",
+      "neuroinflammation"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-07-31",
+    "last_seen_date": "2026-08-04",
+    "content_hash": "8b262861cddf7e8fa6bf6d4a37ade0dc227b4162",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 2,
+    "screening_last_attempt": "2026-09-20T10:08:45+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 4,
+    "summary_last_attempt": "2026-09-23T10:40:51+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "The review focuses on the gut-brain axis, neuroinflammatory mechanisms, and gut microbiome-endocannabinoidome interactions under stress.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "neuroimmunology",
+    "category_ja": "神経免疫",
+    "category_en": "Neuroimmunology",
+    "summary_ja": "本ナラティブレビューは、慢性ストレス下における腸・脳軸（GBA）の破綻と神経炎症のメカニズムについて、5つの領域から証拠を統合しています。ストレスによる上皮および腸血管関門の破壊がNLRP3インフラマソームを活性化し、中枢神経炎症を持続させる機序を説明しています。また、短鎖脂肪酸などの微生物代謝物、腸内細菌叢-エンドカンナビノイドシステム軸、フィトカンナビノイドの受容体特異的作用、およびバリアの脆弱性における性差について議論しています。ただし、カンナビノイドによるキヌレニン経路の修飾や血液脳関門の回復は、慢性心理ストレスモデルにおいて実証されたものではなく、間接的な証拠に基づく仮説段階に留まっています。",
+    "summary_en": "This narrative review synthesizes evidence on how chronic stress disrupts the gut-brain axis and promotes neuroinflammation through epithelial and vascular barrier dysfunction. It highlights the roles of microbial metabolites, the endocannabinoidome, phytocannabinoid pharmacology, and sexual dimorphism in barrier vulnerability. The review notes that many cannabinoid-mediated mechanisms remain hypothetical extrapolations rather than demonstrated pathways in chronic psychological stress.",
+    "key_finding_ja": "慢性ストレスによる腸・脳軸の破綻と神経炎症の機序において、微生物代謝物やカンナビノイド受容体を介した修飾作用が注目されているものの、多くの治療的機序は依然として間接的な証拠に基づく仮説段階に留まっている。",
+    "why_it_matters_ja": "カンナビノイドを用いた腸・脳軸標的治療の臨床応用に向けては、動物モデルでの仮説とヒトでの実証データを明確に区別し、さらなる検証を進める必要がある。",
+    "article_type": "Review",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-09-23T10:40:51+09:00"
+  },
+  {
     "uid": "e469b4b3837fc9f4",
     "stable_id": "10.1186/s12866-026-05455-0",
     "source": "MED",
@@ -745,8 +1055,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 46,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 47,
+    "slack_last_attempt": "2026-09-22T10:47:12+09:00"
   },
   {
     "uid": "9b3422e159a29825",
@@ -810,8 +1120,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 44,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 45,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "9c99df7e1049e707",
@@ -875,8 +1185,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 46,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 47,
+    "slack_last_attempt": "2026-09-22T10:47:12+09:00"
   },
   {
     "uid": "fc3bafbd394b81c9",
@@ -1062,8 +1372,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 44,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 45,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "391b9dfad5525894",
@@ -1128,8 +1438,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 46,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 47,
+    "slack_last_attempt": "2026-09-22T10:47:12+09:00"
   },
   {
     "uid": "052495a0d82ed1b0",
@@ -1195,8 +1505,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 46,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 47,
+    "slack_last_attempt": "2026-09-22T10:47:12+09:00"
   },
   {
     "uid": "38d6f770748b9d29",
@@ -1263,8 +1573,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 44,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 45,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "b703b8ab3a73288e",
@@ -1703,8 +2013,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 46,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 47,
+    "slack_last_attempt": "2026-09-22T10:47:12+09:00"
   },
   {
     "uid": "ff44377015f53513",
@@ -2514,8 +2824,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 46,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 47,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "854286b777dc0f67",
@@ -2582,8 +2892,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 46,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 47,
+    "slack_last_attempt": "2026-09-22T10:47:12+09:00"
   },
   {
     "uid": "a99c77dc80af0b68",
@@ -2648,8 +2958,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 46,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 47,
+    "slack_last_attempt": "2026-09-22T10:47:12+09:00"
   },
   {
     "uid": "809db6c31568b534",
@@ -2714,8 +3024,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 46,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 47,
+    "slack_last_attempt": "2026-09-22T10:47:12+09:00"
   },
   {
     "uid": "900f87cfef394d96",
@@ -2902,8 +3212,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 46,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 47,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "cfd12c5139555ec8",
@@ -2968,8 +3278,8 @@
     "summary_completed_at": "2026-08-04T17:18:23+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 45,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 46,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "6afaddc6d59ae991",
@@ -3221,8 +3531,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 45,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 46,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "05005d85dd5e1f48",
@@ -3286,8 +3596,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 45,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 46,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "e250b873bd383c90",
@@ -3412,8 +3722,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 45,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 46,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "4f8333e6107de511",
@@ -3479,8 +3789,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 45,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 46,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "5177d2e8437ac850",
@@ -3544,8 +3854,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 45,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 46,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   },
   {
     "uid": "5778ae56b5ec6015",
@@ -3798,7 +4108,7 @@
     "summary_completed_at": "2026-08-04T17:18:23+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 45,
-    "slack_last_attempt": "2026-09-21T10:11:24+09:00"
+    "slack_attempts": 46,
+    "slack_last_attempt": "2026-09-22T10:47:13+09:00"
   }
 ]
