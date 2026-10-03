@@ -1,8 +1,15 @@
 [
   {
+    "period_start": "2026-08-03",
+    "period_end": "2026-08-09",
+    "paper_count": 3,
+    "title": "Week ending 2026-08-09",
+    "url": "weeks/2026-08-09.html"
+  },
+  {
     "period_start": "2026-07-27",
     "period_end": "2026-08-02",
-    "paper_count": 78,
+    "paper_count": 85,
     "title": "Week ending 2026-08-02",
     "url": "weeks/2026-08-02.html"
   }
