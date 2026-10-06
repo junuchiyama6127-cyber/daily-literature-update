@@ -1367,8 +1367,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 58,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 59,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "9b3422e159a29825",
@@ -1432,8 +1432,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 56,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 57,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "9c99df7e1049e707",
@@ -1497,8 +1497,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 58,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 59,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "fc3bafbd394b81c9",
@@ -1684,8 +1684,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 56,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 57,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "391b9dfad5525894",
@@ -1750,8 +1750,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 58,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 59,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "052495a0d82ed1b0",
@@ -1817,8 +1817,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 58,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 59,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "38d6f770748b9d29",
@@ -1885,8 +1885,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 56,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 57,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "b703b8ab3a73288e",
@@ -2325,8 +2325,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 58,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 59,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "ee4d448abf311494",
@@ -3566,8 +3566,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 58,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 59,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "854286b777dc0f67",
@@ -3634,8 +3634,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 58,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 59,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "a99c77dc80af0b68",
@@ -3700,8 +3700,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 58,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 59,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "809db6c31568b534",
@@ -3766,8 +3766,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 58,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 59,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "900f87cfef394d96",
@@ -3954,8 +3954,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 58,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 59,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "3d6ac90e3361d243",
@@ -4143,8 +4143,8 @@
     "summary_completed_at": "2026-08-04T17:18:23+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 57,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 58,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "70c1a59e89c5fcbc",
@@ -4644,8 +4644,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 57,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 58,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "05005d85dd5e1f48",
@@ -4709,8 +4709,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 57,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 58,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "e250b873bd383c90",
@@ -4835,8 +4835,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 57,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 58,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "4f8333e6107de511",
@@ -4902,8 +4902,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 57,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 58,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "5177d2e8437ac850",
@@ -4967,8 +4967,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 57,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 58,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   },
   {
     "uid": "5778ae56b5ec6015",
@@ -5343,7 +5343,7 @@
     "summary_completed_at": "2026-08-04T17:18:23+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 57,
-    "slack_last_attempt": "2026-10-04T11:49:27+09:00"
+    "slack_attempts": 58,
+    "slack_last_attempt": "2026-10-05T11:03:18+09:00"
   }
 ]
