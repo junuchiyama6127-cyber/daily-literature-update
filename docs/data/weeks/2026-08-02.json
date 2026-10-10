@@ -1367,8 +1367,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 62,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 63,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "9b3422e159a29825",
@@ -1432,8 +1432,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 60,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 61,
+    "slack_last_attempt": "2026-10-09T12:00:37+09:00"
   },
   {
     "uid": "9c99df7e1049e707",
@@ -1497,8 +1497,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 62,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 63,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "fc3bafbd394b81c9",
@@ -1684,8 +1684,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 60,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 61,
+    "slack_last_attempt": "2026-10-09T12:00:37+09:00"
   },
   {
     "uid": "391b9dfad5525894",
@@ -1750,8 +1750,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 62,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 63,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "052495a0d82ed1b0",
@@ -1817,8 +1817,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 62,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 63,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "38d6f770748b9d29",
@@ -1885,8 +1885,8 @@
     "summary_completed_at": "2026-08-05T17:11:10+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 60,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 61,
+    "slack_last_attempt": "2026-10-09T12:00:37+09:00"
   },
   {
     "uid": "b703b8ab3a73288e",
@@ -2325,8 +2325,194 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 62,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 63,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
+  },
+  {
+    "uid": "4a731bc5e9c0f7ae",
+    "stable_id": "10.1002/cns.71062",
+    "source": "MED",
+    "source_id": "42524858",
+    "pmid": "42524858",
+    "pmcid": "",
+    "doi": "10.1002/cns.71062",
+    "title": "hUC-MSCs via β-NGF Alleviate Cognitive Impairment After Tibial Fracture Surgery by Regulating the STMN2/NMNAT2-SARM1-NF-κB Signaling Pathway.",
+    "abstract": "Background Perioperative neurocognitive disorders (PND) are common postoperative complications, particularly in elderly patients, marked by learning and memory deficits with limited treatment options. Human umbilical cord mesenchymal stem cells (hUC-MSCs) hold promise due to their neuroprotective and immunomodulatory effects, but their underlying mechanisms remain unclear. Methods This study established a PND model in aged mice using tibial fracture intramedullary fixation surgery, followed by intravenous hUC-MSCs administration. Subsequently, behavioral tests, pathological examination, proteomic analysis, and other experiments were performed to verify the therapeutic effect and underlying mechanism of hUC-MSCs on PND in mice. Results hUC-MSCs significantly improved cognitive function in PND mice, reduced hippocampal neuronal apoptosis and neuroinflammation, and restored dendritic spine density. Mechanistically, hUC-MSCs secreted β-NGF to activate the TrkA signaling pathway, upregulate STMN2 and NMNAT2 expression, and inhibit the SARM1/NF-κB pathway, thereby alleviating neuroinflammation and dendritic degeneration. Overexpression of SARM1 in the hippocampal CA1 region and β-NGF knockdown in hUC-MSCs both reversed the therapeutic effects of hUC-MSCs, confirming their critical roles. Conclusions hUC-MSCs ameliorate PND pathology through the β-NGF-mediated STMN2/NMNAT2-SARM1-NF-κB pathway, offering a novel cell-based therapeutic strategy for PND. Future research may focus on optimizing the secretory function of hUC-MSCs or developing small-molecule drugs targeting β-NGF to enhance therapeutic efficacy.",
+    "authors": "Wang K, Wang F, Zhang Y, Li W, Li S, Zhou Y, Ma G, Xia Z, Zhou X, Wang L.",
+    "journal": "CNS neuroscience & therapeutics",
+    "publication_date": "2026-08-01",
+    "publication_date_parsed": "2026-08-01",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42524858",
+    "doi_url": "https://doi.org/10.1002/cns.71062",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "neuroinflammation"
+    ],
+    "journal_hits": [
+      "Science"
+    ],
+    "first_seen_date": "2026-08-01",
+    "last_seen_date": "2026-08-07",
+    "content_hash": "60f31a8687cbdddafa1716bb4ad0dc18ccabb10a",
+    "late_indexed": false,
+    "screening_status": "completed",
+    "screening_attempts": 9,
+    "screening_last_attempt": "2026-10-10T11:19:12+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-10-10T11:24:17+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 90,
+    "screening_reason": "The research focuses on mitigating hippocampal neuroinflammation and immune signaling pathways in a model of perioperative neurocognitive disorder.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "neuroimmunology",
+    "category_ja": "神経免疫",
+    "category_en": "Neuroimmunology",
+    "summary_ja": "周術期神経認知障害（PND）は高齢患者に頻見される術後合併症ですが、効果的な治療法が限られています。本研究では、脛骨骨折手術を施した高齢マウスのPNDモデルに対し、ヒト臍帯由来間葉系幹細胞（hUC-MSC）を静脈投与してその効果を調べました。hUC-MSC投与により認知機能障害が有意に改善し、海馬の神経細胞死や神経炎症、デンドライトスパインの減少が抑制されました。作用機序として、hUC-MSCが分泌するβ-NGFがTrkA経路を介してSTMN2/NMNAT2を発現誘導し、SARM1/NF-κB経路を阻害することが示されました。",
+    "summary_en": "This study investigated the effects of human umbilical cord mesenchymal stem cells (hUC-MSCs) in an aged mouse model of perioperative neurocognitive disorders induced by tibial fracture surgery. Systemic administration of hUC-MSCs improved cognitive deficits and suppressed hippocampal neuronal apoptosis and neuroinflammation. Mechanistically, hUC-MSC-derived β-NGF activated the TrkA signaling pathway and regulated the STMN2/NMNAT2-SARM1-NF-κB axis to reduce neuroinflammation.",
+    "key_finding_ja": "hUC-MSCはβ-NGFを介してSTMN2/NMNAT2-SARM1-NF-κB経路を調節し、周術期神経認知障害の神経炎症と認知機能低下を改善した。",
+    "why_it_matters_ja": "術後認知機能障害に対する細胞移植治療やβ-NGFを標的とした創薬の臨床応用へ向けた基盤となる可能性があります。",
+    "article_type": "Research article",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-10-10T11:24:17+09:00"
+  },
+  {
+    "uid": "d9f5a7e24b67645a",
+    "stable_id": "10.1002/prp2.70299",
+    "source": "MED",
+    "source_id": "42427276",
+    "pmid": "42427276",
+    "pmcid": "",
+    "doi": "10.1002/prp2.70299",
+    "title": "The JAK1/2 Inhibitor Baricitinib Ameliorates Neuroinflammation and Symptoms in an Animal Model of Essential Tremor.",
+    "abstract": "Essential tremor (ET) is one of the most prevalent adult-onset movement disorders, which significantly impairs quality of life. So far, there are few therapeutic options with limited efficacy. This study investigated the therapeutic potential of baricitinib, a selective JAK1/2 inhibitor, in the harmaline-induced model of ET. Male Swiss mice were randomly assigned to five groups (n = 8): control, harmaline, and harmaline plus baricitinib at 10, 20, or 50 mg/kg doses. ET was induced using harmaline (10 mg/kg, i.p.). Baricitinib was administered orally daily for 14 days. Assessments included behavioral tests and cerebellar gene expression analysis of inflammatory markers (TNF-α, IL-6, NF-κB), neurotrophic factors (BDNF), ET-related targets (Lingo-1, NMDA receptor), and histopathological evaluation. Baricitinib reduced harmaline-induced tremor severity. The drug also significantly ameliorated anxiety-like behaviors in elevated plus maze and open field tests, while reducing depressive-like behavior in the tail suspension test. Passive avoidance outcomes changed in a direction suggestive of improved retention; however, the high-dose findings should be interpreted cautiously because 50 mg/kg was associated with motor coordination impairment. Molecular analyses revealed baricitinib completely normalized cerebellar pro-inflammatory cytokines TNF-α and IL-6 and suppressed NF-κB expression. The drug restored BDNF levels and reduced Lingo-1 expression. Histopathological examination also suggested reduced Purkinje cell degeneration, with 20 and 50 mg/kg doses reducing Purkinje cell degeneration to control levels. Baricitinib reduced tremor and affective behaviors in a harmaline-induced ET model, though gait abnormalities persisted. Cognitive benefits at lower doses were observed, with cautious interpretation required for the high dose due to motor effects. Molecular and histological analyses supported anti-inflammatory and neuroprotective effects, indicating selective benefits via neuroinflammatory modulation.",
+    "authors": "Ilaghi M, Shahsavari F, Soti M, Elyasifar S, Bagherzadeh L, Pirmoradi Z, Shabani M.",
+    "journal": "Pharmacology research & perspectives",
+    "publication_date": "2026-08-01",
+    "publication_date_parsed": "2026-08-01",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42427276",
+    "doi_url": "https://doi.org/10.1002/prp2.70299",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "neuroinflammation"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-08-01",
+    "last_seen_date": "2026-08-07",
+    "content_hash": "eebd7eb62fe7c4a3ba71b0fb613e925e6f9f6eb9",
+    "late_indexed": false,
+    "screening_status": "completed",
+    "screening_attempts": 9,
+    "screening_last_attempt": "2026-10-10T11:19:12+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-10-10T11:24:17+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 90,
+    "screening_reason": "The paper directly investigates the suppression of neuroinflammation and neuroinflammatory markers using a JAK1/2 inhibitor in an animal model of essential tremor.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "neuroimmunology",
+    "category_ja": "神経免疫",
+    "category_en": "Neuroimmunology",
+    "summary_ja": "本研究では、ハルマリンで誘発した本態性振戦（ET）のマウスモデルを用いて、選択的JAK1/2阻害薬バリシチニブの治療効果を検証しました。バリシチニブの14日間経口投与により、振戦の程度が軽減したほか、不安様行動や抑うつ様行動が著しく改善しました。分子解析では、小脳における炎症性サイトカイン（TNF-αおよびIL-6）やNF-κBの発現低下、BDNFレベルの回復、およびプルキンエ細胞の変性抑制が確認されました。ただし、高用量では運動協調性の低下が見られたため、慎重な解釈が必要です。",
+    "summary_en": "This study evaluated the therapeutic potential of baricitinib, a JAK1/2 inhibitor, in a harmaline-induced mouse model of essential tremor. Daily oral administration of baricitinib for 14 days reduced tremor severity and ameliorated anxiety- and depressive-like behaviors. The treatment completely normalized cerebellar levels of pro-inflammatory cytokines, restored BDNF expression, and reduced Purkinje cell degeneration.",
+    "key_finding_ja": "JAK1/2阻害薬バリシチニブは、小脳の神経炎症を抑制し、本態性振戦モデルマウスの振戦や情動異常を改善した。",
+    "why_it_matters_ja": "本態性振戦に対する神経炎症制御に基づく新たな薬物治療の選択肢として今後の臨床応用に向けた検証が期待されます。",
+    "article_type": "Research article",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-10-10T11:24:17+09:00"
+  },
+  {
+    "uid": "1bf40a840a346f21",
+    "stable_id": "10.1002/cph4.70216",
+    "source": "MED",
+    "source_id": "42415406",
+    "pmid": "42415406",
+    "pmcid": "",
+    "doi": "10.1002/cph4.70216",
+    "title": "Targeting the Organ-Brain Axis: The Modulatory Role of Peripheral Organs in Depression.",
+    "abstract": "Major Depressive Disorder (MDD) is a highly prevalent mental illness whose pathophysiology remains incompletely understood. Although MDD has traditionally been conceptualized primarily as a disorder of central nervous system dysfunction, accumulating evidence supports a broader brain-body framework, particularly in biologically defined subgroups characterized by inflammatory, metabolic, endocrine, autonomic, or microbiome-related abnormalities. This review summarizes how selected peripheral organs, including the gut, liver, heart, spleen, skeletal muscle, adipose tissue, bone marrow, and endocrine glands, may communicate with the brain through neural, metabolic, immune, endocrine, and microbial pathways. Emerging preclinical and clinical evidence suggests that these peripheral signals may participate in neuroinflammation and physiological alterations associated with depressive phenotypes. However, their causal status in humans remains incompletely established, and peripheral alterations may represent contributors to, correlates of, or consequences of central pathological states. We further discuss how multi-organ communication networks may converge on shared central pathways and provide a conceptual framework for understanding selected MDD phenotypes. Finally, we evaluate therapeutic strategies targeting systemic inflammation, metabolic homeostasis, and endocrine regulation, while emphasizing current translational limitations.",
+    "authors": "Han J, Zhang W, Zhang Y, Ding J.",
+    "journal": "Comprehensive Physiology",
+    "publication_date": "2026-08-01",
+    "publication_date_parsed": "2026-08-01",
+    "pub_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42415406",
+    "doi_url": "https://doi.org/10.1002/cph4.70216",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "neuroinflammation"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-08-01",
+    "last_seen_date": "2026-08-07",
+    "content_hash": "cbf85421ba89e7507bcbb1ec5d14cf44e3db598c",
+    "late_indexed": false,
+    "screening_status": "completed",
+    "screening_attempts": 9,
+    "screening_last_attempt": "2026-10-10T11:19:12+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-10-10T11:24:17+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 90,
+    "screening_reason": "The review focuses on organ-brain communications, explicitly covering gut microbiome pathways and neuroinflammatory mechanisms in depression.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "neuroimmunology",
+    "category_ja": "神経免疫",
+    "category_en": "Neuroimmunology",
+    "summary_ja": "大うつ病性障害（MDD）は中枢神経系の機能障害として捉えられてきましたが、全身の器官と脳との相互作用を重視する「脳・身体フレームワーク」への注目が高まっています。本レビューでは、腸、肝臓、心臓、骨格筋、脂肪組織などの末梢器官が、神経・代謝・免疫・内分泌系および微生物学的な経路を介して脳と通信するメカニズムをまとめています。これらの末梢シグナルは神経炎症やうつ病様表現型に関連する生理学的変化に関与している可能性が示唆されています。また、これらを標的とした抗炎症療法や代謝・内分泌調節などの治療戦略とその課題について議論しています。",
+    "summary_en": "This review conceptualizes major depressive disorder through a brain-body framework, focusing on how peripheral organs communicate with the brain. Selective peripheral organs such as the gut, liver, and adipose tissue interact with the central nervous system via neural, metabolic, immune, endocrine, and microbial pathways. These systemic signals may contribute to neuroinflammation and biological alterations underlying specific depressive phenotypes.",
+    "key_finding_ja": "大うつ病性障害において、末梢器官から脳への多系統の通信経路が神経炎症やうつ病様表現型に関与している可能性が概括された。",
+    "why_it_matters_ja": "末梢器官と脳の相互作用の解明は、特定の病態生理学的サブグループに応じた新たな治療アプローチの開発につながる可能性があります。",
+    "article_type": "Review",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-10-10T11:24:17+09:00"
   },
   {
     "uid": "ee4d448abf311494",
@@ -3566,8 +3752,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 62,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 63,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "854286b777dc0f67",
@@ -3634,8 +3820,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 62,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 63,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "a99c77dc80af0b68",
@@ -3700,8 +3886,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 62,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 63,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "809db6c31568b534",
@@ -3766,8 +3952,8 @@
     "summary_completed_at": "2026-08-03T21:04:20+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 62,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 63,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "900f87cfef394d96",
@@ -3954,8 +4140,8 @@
     "summary_completed_at": "2026-08-03T21:05:01+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 62,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 63,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "3d6ac90e3361d243",
@@ -4143,8 +4329,132 @@
     "summary_completed_at": "2026-08-04T17:18:23+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 61,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 62,
+    "slack_last_attempt": "2026-10-09T12:00:37+09:00"
+  },
+  {
+    "uid": "c69d929da96ebba6",
+    "stable_id": "10.1016/j.lanmic.2026.101513",
+    "source": "MED",
+    "source_id": "42532085",
+    "pmid": "42532085",
+    "pmcid": "",
+    "doi": "10.1016/j.lanmic.2026.101513",
+    "title": "The human gut microbiome: still more questions than answers.",
+    "abstract": "",
+    "authors": "The Lancet Microbe.",
+    "journal": "The Lancet. Microbe",
+    "publication_date": "2026-07-30",
+    "publication_date_parsed": "2026-07-30",
+    "pub_types": [
+      "Editorial"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42532085",
+    "doi_url": "https://doi.org/10.1016/j.lanmic.2026.101513",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut microbiome"
+    ],
+    "journal_hits": [],
+    "first_seen_date": "2026-08-01",
+    "last_seen_date": "2026-08-05",
+    "content_hash": "1a5483a63bad32662ff4540e6969fea35cad3ac1",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 9,
+    "screening_last_attempt": "2026-10-10T11:19:12+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-10-10T11:24:17+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 85,
+    "screening_reason": "The paper is centered directly on the human gut microbiome.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "ヒト腸内細菌叢に関する研究は急速に進展しているものの、依然として解明されていない課題が多く残されています。本論文では、腸内マイクロバイオームの複雑性と宿主との相互作用について現在の知見と論点を考察しています。今後の研究方向性や技術的限界についても言及されています。",
+    "summary_en": "This article highlights that despite significant progress in human gut microbiome research, many unresolved questions remain regarding host-microbe interactions. It discusses current challenges and future perspectives in the field of intestinal microbial biology.",
+    "key_finding_ja": "ヒト腸内細菌叢の研究分野において、解明された知見とともに未解決の課題が多岐にわたることが論じられた。",
+    "why_it_matters_ja": "腸内マイクロバイオームの包括的な理解を深めることで、将来的な診断や個別化医療への発展が期待されます。",
+    "article_type": "Review",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-10-10T11:24:17+09:00"
+  },
+  {
+    "uid": "a880cf128cba2be4",
+    "stable_id": "10.1002/hsr2.72863",
+    "source": "MED",
+    "source_id": "42534713",
+    "pmid": "42534713",
+    "pmcid": "",
+    "doi": "10.1002/hsr2.72863",
+    "title": "Targeted Interventions in HAM/TSP: Emerging Therapies and Future Directions - A Narrative Review.",
+    "abstract": "Background and aim Human T-Lymphotropic virus type 1 (HTLV-1) infection can lead to HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP), a debilitating chronic neurological disease characterized by progressive lower limb spasticity and autonomic dysfunction. Because the exact disease pathogenesis remains unclear and current management options have limited efficacy, there is a critical need for more effective therapies to reduce morbidity and mortality. This narrative review aims to review the available and diverse range of emerging treatment approaches for HAM/TSP. Methods A comprehensive narrative review of the existing literature was conducted to assess current treatment methods, historical treatment efforts, and modern therapeutic interventions. The scope includes pharmacological, immunological, targeted, and non-pharmacological strategies aimed at disease management. Results Current disease-modifying therapies primarily rely on immunomodulatory agents, such as corticosteroids and interferon-alpha, to mitigate neuroinflammation and preserve motor function, whereas traditional antiretroviral therapies demonstrate limited clinical efficacy. Emerging targeted therapies, notably the monoclonal antibody mogamulizumab, show significant promise in reducing HTLV-1-infected cells and sustaining a decrease in spinal cord inflammation. Furthermore, comprehensive care must integrate treatments targeting specific cellular signaling pathways alongside vital non-pharmacological interventions, such as physical rehabilitation and psychological support. Conclusion The effective management of HAM/TSP necessitates a holistic, multidisciplinary approach encompassing targeted pharmacotherapy, symptomatic management, and psychosocial support. While novel interventions and disease-modifying therapies offer promising new directions, further high-quality, randomized clinical trials are essential to establish standard regimens, optimize dosages, and ensure long-term efficacy and safety.",
+    "authors": "Rezaei MM, Nia MK, Rouzbahani KA, Kazemi M, Hosori NA, Norouzi M, Sotoudegan F, Eslami N, Ariamand N, Shahnavaz V, Letafati A, Mozhgani SH.",
+    "journal": "Health science reports",
+    "publication_date": "2026-07-30",
+    "publication_date_parsed": "2026-07-30",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42534713",
+    "doi_url": "https://doi.org/10.1002/hsr2.72863",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "neuroinflammation"
+    ],
+    "journal_hits": [
+      "Science"
+    ],
+    "first_seen_date": "2026-08-01",
+    "last_seen_date": "2026-08-05",
+    "content_hash": "2e25e686c1aaa435f72ab19a33e57754cf3e2371",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 9,
+    "screening_last_attempt": "2026-10-10T11:19:12+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 1,
+    "summary_last_attempt": "2026-10-10T11:24:17+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "screening_method": "gemini",
+    "include": true,
+    "relevance_score": 85,
+    "screening_reason": "The review focuses on therapies targeting neuroinflammation and viral immune pathology in HTLV-1-associated myelopathy/tropical spastic paraparesis.",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "neuroimmunology",
+    "category_ja": "神経免疫",
+    "category_en": "Neuroimmunology",
+    "summary_ja": "HTLV-1関連脊髄症/熱帯性痙性麻痺（HAM/TSP）は、進行性の下肢痙縮や自律神経障害を引き起こす慢性神経疾患です。本ナラティブレビューでは、HAM/TSPの治療法に関する従来の試みから最新の標的治療までの文献を総合的に考察しています。副腎皮質ステロイドやインターフェロンアルファなどの免疫調節薬に加えて、HTLV-1感染細胞を減少させるモガムリズマブなどの新規抗体療法の有望性が示されています。また、総合的な管理には薬物療法とリハビリテーションなどの非薬物介入の統合が不可欠であると提示しています。",
+    "summary_en": "This narrative review summarizes existing and emerging therapeutic approaches for HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP). While traditional disease-modifying therapies rely on immunomodulation, targeted therapies such as mogamulizumab demonstrate promise in reducing HTLV-1-infected cells and spinal cord inflammation. Comprehensive management requires combining pharmacotherapy with physical and psychological support.",
+    "key_finding_ja": "HAM/TSP治療において、モガムリズマブなどの新奇標的療法がHTLV-1感染細胞と脊髄炎症の軽減において有望であることが総括された。",
+    "why_it_matters_ja": "難治性のHAM/TSPに対して標準治療の確立に向けた高品質なランダム化比較試験の実施が望まれます。",
+    "article_type": "Review",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-10-10T11:24:17+09:00"
   },
   {
     "uid": "70c1a59e89c5fcbc",
@@ -4644,8 +4954,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 61,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 62,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "05005d85dd5e1f48",
@@ -4709,8 +5019,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 61,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 62,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "e250b873bd383c90",
@@ -4835,8 +5145,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 61,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 62,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "4f8333e6107de511",
@@ -4902,8 +5212,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 61,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 62,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "5177d2e8437ac850",
@@ -4967,8 +5277,8 @@
     "summary_completed_at": "2026-08-04T17:17:42+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 61,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 62,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   },
   {
     "uid": "5778ae56b5ec6015",
@@ -5343,7 +5653,7 @@
     "summary_completed_at": "2026-08-04T17:18:23+09:00",
     "slack_status": "failed",
     "slack_error": "Slack webhook failed: HTTP 404: no_service",
-    "slack_attempts": 61,
-    "slack_last_attempt": "2026-10-08T11:45:34+09:00"
+    "slack_attempts": 62,
+    "slack_last_attempt": "2026-10-09T12:00:36+09:00"
   }
 ]
