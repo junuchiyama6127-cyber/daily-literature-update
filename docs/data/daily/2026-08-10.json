@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "uid": "0cdca23eb11871b4",
+    "stable_id": "10.1038/s41467-026-76526-z",
+    "source": "MED",
+    "source_id": "42567864",
+    "pmid": "42567864",
+    "pmcid": "",
+    "doi": "10.1038/s41467-026-76526-z",
+    "title": "Systematic profiling of growth interactions in human gut microbiome species.",
+    "abstract": "Microbial interactions shape the composition and stability of the human gut microbiome. Yet, few studies have systematically investigated species-species growth interactions and the mechanisms behind these. Here we show that among 36 representative gut bacterial strains, when two species interact, the interactions are mostly inhibitory. To provide biological insight into specific interactions, we further investigate the basis of a positive interaction, showing that Clostridium perfringens promotes the growth of Mediterraneibacter gnavus through extracellular vesicles. Additionally, we identify Veillonella parvula as a species capable of modulating environmental pH, thereby enabling the growth of Parabacteroides merdae, a strain highly sensitive to acidic conditions. This pH-increasing effect is enhanced by guanine supplementation and persists in multi-species communities containing different pH-lowering strains from diverse bacterial phyla. Although V. parvula is commonly present in human gut microbiomes, it is generally found at low levels. Given the spatial organization of bacteria in the gut, the local pH modulation by V. parvula might support the growth of acid-sensitive strains. Overall, the comprehensive dataset and mechanistic insights presented here provide a starting point to predict microbiome composition by integrating growth interactions.",
+    "authors": "Buyanbadrakh B, Baland E, Lambeck P, Pérez Jiménez L, Holmberg SM, Puértolas-Balint F, Toh E, Wai SN, Schroeder BO, Ramstedt M, Zhu S, Mateus A.",
+    "journal": "Nature communications",
+    "publication_date": "2026-08-07",
+    "publication_date_parsed": "2026-08-07",
+    "pub_types": [
+      "Journal Article"
+    ],
+    "is_open_access": false,
+    "cited_by_count": 0,
+    "epmc_url": "https://europepmc.org/article/MED/42567864",
+    "doi_url": "https://doi.org/10.1038/s41467-026-76526-z",
+    "matched_by": [
+      "keyword"
+    ],
+    "keyword_hits": [
+      "gut bacteria",
+      "gut microbiome"
+    ],
+    "journal_hits": [
+      "Nature"
+    ],
+    "first_seen_date": "2026-08-10",
+    "last_seen_date": "2026-08-13",
+    "content_hash": "aba6135a050809563d50efd1f995c1f316c7f500",
+    "late_indexed": true,
+    "screening_status": "completed",
+    "screening_attempts": 1,
+    "screening_last_attempt": "2026-10-27T11:05:57+09:00",
+    "screening_error": "",
+    "summary_status": "completed",
+    "summary_attempts": 2,
+    "summary_last_attempt": "2026-11-01T11:16:10+09:00",
+    "summary_error": "",
+    "category_status": "completed",
+    "category_attempts": 0,
+    "category_last_attempt": "",
+    "category_error": "",
+    "category_version": "2026-07-27-five-research-categories-v1",
+    "include": true,
+    "relevance_score": 95,
+    "screening_reason": "Directly investigates growth interactions and metabolic modulation among human gut bacterial species.",
+    "screening_method": "gemini",
+    "screening_version": "2026-07-27-gemini-v7-five-categories",
+    "category_id": "gut_microbiome",
+    "category_ja": "腸内細菌",
+    "category_en": "Gut microbiome",
+    "summary_ja": "ヒト腸内細菌叢の代表的な36菌株を用いて、菌株間の増殖相互作用を包括的に解析した研究である。2菌種間の相互作用の多くは抑制的であったが、一部でポジティブな相互作用とその機構が同定された。例えば、Clostridium perfringensは細胞外小胞を介してMediterraneibacter gnavusの増殖を促進することが示された。さらに、Veillonella parvulaによる環境pHの上昇が、酸に弱いParabacteroides merdaeの増殖を可能にすることが明らかにされた。",
+    "summary_en": "This study systematically evaluated pairwise growth interactions among 36 representative human gut bacterial strains, finding that interspecies interactions were predominantly inhibitory. The authors delineated specific positive interactions, showing that Clostridium perfringens promotes Mediterraneibacter gnavus growth via extracellular vesicles. Additionally, Veillonella parvula was found to raise environmental pH, facilitating the growth of acid-sensitive Parabacteroides merdae.",
+    "key_finding_ja": "ヒト腸内細菌36株の解析により、菌種間相互作用の多くが抑制的である一方、細胞外小胞やpH調節を介した促進的相互作用機構が解明された。",
+    "why_it_matters_ja": "腸内細菌同士の相互作用メカニズムを理解することは、複雑な腸内微生物群集の構成予測や制御手法の開発に貢献する可能性がある。",
+    "article_type": "Research article",
+    "summary_version": "2026-07-27-gemini-v7-five-categories",
+    "summary_completed_at": "2026-11-01T11:16:10+09:00"
+  }
+]
